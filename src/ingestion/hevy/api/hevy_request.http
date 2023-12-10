@@ -1,0 +1,44 @@
+### Get Workouts
+GET {{host}}/workouts_batch/0
+Accept: application/json, text/plain, */*
+x-api-key: with_great_power
+auth-token: {{auth_token}}
+User-Agent: okhttp/4.9.3
+Pragma: no-cache
+Cache-Control: no-cache
+
+### Get Workout Count
+GET {{host}}/workout_count
+Accept: application/json, text/plain, */*
+x-api-key: with_great_power
+auth-token: {{auth_token}}
+User-Agent: okhttp/4.9.3
+Pragma: no-cache
+Cache-Control: no-cache
+
+### Account
+GET {{host}}/account
+Accept: application/json, text/plain, */*
+x-api-key: with_great_power
+auth-token: {{auth_token}}
+User-Agent: okhttp/4.9.3
+Pragma: no-cache
+Cache-Control: no-cache
+
+### Custom Exercises
+GET {{host}}/custom_exercise_templates
+Accept: application/json, text/plain, */*
+x-api-key: with_great_power
+auth-token: {{auth_token}}
+User-Agent: okhttp/4.9.3
+Pragma: no-cache
+Cache-Control: no-cache
+
+### Sync Routines
+POST {{host}}/routines_sync_batch
+Accept: application/json, text/plain, */*
+x-api-key: with_great_power
+auth-token: {{auth_token}}
+User-Agent: okhttp/4.9.3
+Pragma: no-cache
+Cache-Control: no-cache

@@ -1,0 +1,43 @@
+@specificdate = 2023-11-04
+
+### Fetch User Data
+GET {{host}}/1/user/-/profile.json
+Accept: application/json
+Authorization: Bearer {{access_token}}
+
+### Refresh Token
+# @name renewToken
+POST {{host}}/oauth2/token
+Authorization: Basic {{encoded_credentials}}    
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=refresh_token&refresh_token={{refresh_token}}
+
+### Daily Activity (using the new access token from renewToken) 
+GET {{host}}/1.2/user/-/activities/date/today.json
+Authorization: Bearer {{renewToken.response.body.access_token}}
+
+### Daily Activity by date
+GET {{host}}/1/user/-/activities/date/{{specificdate}}.json
+Accept: application/json
+Authorization: Bearer {{access_token}}
+
+### Sleep Log for date
+GET {{host}}/1.2/user/-/sleep/date/{{specificdate}}.json
+Accept: application/json
+Authorization: Bearer {{access_token}}
+
+### Sleep Log last x days
+GET {{host}}/1.2/user/-/sleep/list.json?afterDate=2023-10-01&sort=desc&offset=0&limit=30
+Accept: application/json
+Authorization: Bearer {{access_token}}
+
+### Breathing Rate
+GET {{host}}/1/user/{{user_id}}/br/date/2023-11-06.json
+Accept: application/json
+Authorization: Bearer {{access_token}}
+
+### Active Zone Minutes (AZM) by date
+GET {{host}}/1/user/-/activities/active-zone-minutes/date/2023-11-06/1d.json
+Accept: application/json
+Authorization: Bearer {{access_token}}

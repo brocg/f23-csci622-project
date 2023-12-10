@@ -1,0 +1,657 @@
+Rank,Performance,Wind,Athlete,Age,Country,Location,Date
+1,9.85,(+1.0),Yohan Blake,32,JAM,"Kingston, JAM",23 Jun 22 - 26 Jun 22
+2,9.93,(+2.9),Mouhamadou Fall,30,FRA,"Montverde, FL, USA",4 Jun 22
+3,9.98,(+1.1),Emmanuel Matadi,31,LBR,"Port-of-Spain, TTO",24 Jun 22 - 26 Jun 22
+4,10.00,(+5.6),Harry Aikines-Aryeetey,33,GBR,"Manchester, GBR",24 Jun 22 - 26 Jun 22
+5,10.03,(+1.2),Oshane Bailey,32,JAM,"Kingston, JAM",23 Jun 22 - 26 Jun 22
+6,10.04,(+0.6),Kemar Bailey-Cole,30,JAM,"Kingston, JAM",23 Jun 22 - 26 Jun 22
+7,10.05,(+2.1),Emile Erasmus,30,RSA,"København, DEN",16 Jun 22
+8,10.06,(-0.3 ),Aaron Brown,30,CAN,"Zürich, SUI",7 Sep 22 - 8 Sep 22
+9,10.07,(+2.3),Jimmy Vicaut,30,FRA,"Savona, ITA",18 May 22
+10,10.09,(+1.2),Kukyoung Kim,31,KOR,"Tottori, JPN",25 Jun 22 - 26 Jun 22
+11,10.10,(+1.4),Isiah Young,32,USA,"Eugene, OR, USA",23 Jun 22 - 26 Jun 22
+12,10.12,(+2.7),Pascal Mancini,33,SUI,"Bulle, SUI",9 Jul 22
+13,10.15,(+0.1),Bingtian Su,32,CHN,"Eugene, OR, USA",15 Jul 22 - 22 Jul 22
+13,10.15,(+2.1),Chris Royster,30,USA,"Nashville, TN, USA",3 Jun 22 - 5 Jun 22
+15,10.17,(+1.0),Alonso Edward,32,PAN,"Valledupar, COL",1 Jul 22 - 4 Jul 22
+16,10.18,(+2.4),Eugene Amo-Dadzie,30,GBR,"Bedford, GBR",30 Jul 22 - 31 Jul 22
+17,10.20,(+0.1),Brendon Rodney,30,CAN,"Ostrava, CZE",31 May 22
+18,10.22,(-0.1),Emre Zafer Barnes,33,TUR,"Bursa, TUR",25 Aug 22 - 26 Aug 22
+18,10.22,(+0.1),Rasheed Dwyer,33,JAM,"Marietta, GA, USA",2 Jul 22
+18,10.22,(+0.4),Andrew Robertson,31,GBR,"Dublin, IRL",2 Jul 22
+18,10.22,(+0.1),Seye Ogunlewe,30,NGR,"Benin City, NGR",24 Jun 22 - 26 Jun 22
+22,10.23,(+1.9),Ramone Barnswell,34,JAM,"Kingston, JAM",23 Jun 22 - 26 Jun 22
+23,10.25,(+0.1),Jak Ali Harvey,33,TUR,"Erzurum, TUR",4 Jun 22 - 5 Jun 22
+23,10.25,(+1.5),Benjamin Williams,30,CAN,"Edmonton, CAN",3 Jul 22
+25,10.26,(+0.2),Ramil Guliyev,32,TUR,"Madrid, ESP",18 Jun 22
+26,10.27,(+0.8),Damian Warner,32,CAN,"Eugene, OR, USA",15 Jul 22 - 22 Jul 22
+27,10.28,(+1.6),Sean Safo-Antwi,31,GHA,"St Pierre, MRI",8 Jun 22 - 12 Jun 22
+28,10.30,(+1.9),Solomon Bockarie,34,SLE,"Gaborone, BOT",30 Apr 22
+29,10.33,(+1.2),Seiya Kusano,34,JPN,"Tottori, JPN",25 Jun 22 - 26 Jun 22
+29,10.33,(3.2 ),Lionel Tshimanga Muteba,32,COD,"TTFC, Toronto, ON, CAN",2 Jul 22 - 3 Jul 22
+31,10.34,( NWI),Bismark Boateng,30,CAN,"Guelph, ON, CAN",8 Jun 22
+32,10.36,(+2.8),Confidence Lawson,31,GBR,"Bedford, GBR",30 Jul 22 - 31 Jul 22
+32,10.36,(+3.1),Ameer Webb,31,USA,"Walnut, CA, USA",16 Apr 22
+32,10.36,(-0.1),Shota Iizuka,31,JPN,"Gifu, JPN",23 Sep 22 - 25 Sep 22
+35,10.37,(+1.9),Kyle Greaux,34,TTO,"Port-of-Spain, TTO",24 Jun 22 - 26 Jun 22
+35,10.37,(+1.9),Shane Brathwaite,32,BAR,"Port-of-Spain, TTO",24 Jun 22 - 26 Jun 22
+35,10.37,(+3.0),Ioannis Nifadopoulos,31,GRE,"Vari, GRE",2 Jun 22
+38,10.38,(+2.0),Sibusiso Matsenjwa,34,SWZ,"St Pierre, MRI",8 Jun 22 - 12 Jun 22
+38,10.38,(+0.8),Robin Erewa,30,GER,"Berlin, GER",23 Jun 22 - 26 Jun 22
+40,10.40,(+2.1),Cordero Gray,33,USA,"Nashville, TN, USA",3 Jun 22 - 5 Jun 22
+40,10.40,( NWI),Michael Bryan,31,GER,"Wetzlar, GER",11 Jun 22
+42,10.41,(+1.2),Luca Lai,30,ITA,"LA Chaux-de-Fonds, SUI",3 Jul 22
+43,10.42,(+1.2),Barakat Mubarak Al-Harthi,33,OMA,"Mashhad, IRI",29 May 22 - 30 May 22
+44,10.45,(-0.8),Takumi Kuki,30,JPN,"Osaka, JPN",9 Jun 22 - 12 Jun 22
+45,10.46,(-1.3),Panayiotis Trivyzas,34,GRE,"Patra, GRE",23 Jul 22 - 24 Jul 22
+45,10.46,(+1.9),Steven Müller,31,GER,"Johannesburg, RSA",13 Apr 22
+45,10.46,(0.9 ),Akeem Stewart,31,GUY,"Birmingham, GBR",30 Jul 22 - 7 Aug 22
+48,10.47,(NWI),Dylan Rigot,32,FRA,"Akita, JPN",4 Jun 22 - 5 Jun 22
+48,10.47,(+0.4),Dennis Otieno,31,KEN,"Norrköping, SWE",5 Aug 22 - 7 Aug 22
+48,10.47,(+0.5),Roy Schmidt,30,GER,"Wetzlar, GER",11 Jun 22
+51,10.48,(0.0),Ogho-Oghene Egwero,33,NGR,"Benin City, NGR",24 Jun 22 - 26 Jun 22
+51,10.48,(+2.5),Dickson Kamungeremu,32,ZIM,"St Pierre, MRI",8 Jun 22 - 12 Jun 22
+51,10.48,(+0.1),Kemar Hyman,32,CAY,"Marietta, GA, USA",2 Jul 22
+51,10.48,(+1.3),Dmitriy Lopin,31,RUS,"Cheboksary, RUS",2 Aug 22 - 5 Aug 22
+55,10.50,( 0.0),Panayiótis Trivizás,34,GRE,"Kalamata, GRE",21 May 22
+56,10.51,(-1.2),Patrik Andersson,31,SWE,"Göteborg, SWE",17 Jun 22 - 19 Jun 22
+57,10.52,(+0.8),Mustapha Traore,32,MLI,"Limoges, FRA",15 Jun 22
+57,10.52,(+0.6),Femi Ogunode,31,QAT,"Eugene, OR, USA",15 Jul 22 - 22 Jul 22
+57,10.52,(+0.6),Kyle Ennis,30,GBR,"Perth, AU-WA, AUS",18 Feb 22 - 20 Feb 22
+60,10.53,(+0.7),Christopher Sibanda,32,IRL,"Oordegem, BEL",28 May 22
+60,10.53,(+0.8),Yigitcan Hekimoglu,30,TUR,"Bursa, TUR",11 Jun 22 - 12 Jun 22
+62,10.55,(+1.0),Dontae Richards-Kwok,33,CAN,"Windsor, ON, CAN",21 May 22
+63,10.56,(+1.2),Mehran Hosseini Heidari,31,IRI,"Mashhad, IRI",29 May 22 - 30 May 22
+64,10.57,(+3.7),Samuel Osadolor,32,NGR,"St Pierre, MRI",8 Jun 22 - 12 Jun 22
+64,10.57,(-0.4),Dexter Lee,31,JAM,"Kingston, JAM",2 Apr 22
+64,10.57,(+0.6),Taegeon Park,30,KOR,"Daegu, KOR",19 Apr 22
+67,10.60,(+3.0),Moulaye Sonko,34,SEN,"Dakar, SEN",25 Jun 22
+67,10.60,(+0.6),Idriss Laredj,33,ALG,"Dély Ibrahim, ALG",31 Jul 22 - 2 Aug 22
+69,10.61,(+1.2),Reza Ghasemi,34,IRI,"Mashhad, IRI",29 May 22 - 30 May 22
+69,10.61,(+1.9),Dorian Hauterville,32,FRA,"Bron, FRA",30 Jun 22
+69,10.61,(3.2 ),Axel Addoh,30,FRA,"Vénissieux, FRA",29 May 22
+72,10.62,(-1.6),Yohandris Andújar,31,DOM,"Santo Domingo, DOM",14 May 22
+72,10.62,(+0.8),Ruslan Perestyuk,31,RUS,"Cheboksary, RUS",2 Aug 22 - 5 Aug 22
+72,10.62,(+0.8),Kevin Mayer,30,FRA,"Eugene, OR, USA",15 Jul 22 - 22 Jul 22
+75,10.63,(+3.5),Lee Dollard,32,GBR,"Manchester, GBR",24 Jun 22 - 26 Jun 22
+75,10.63,(+1.9),Hassan Saaid,30,MDV,"Malé, MDV",25 Aug 22 - 27 Aug 22
+77,10.64,(+0.8),Aaron Stubbs,31,AUS,"Brisbane, AU-QL, AUS",5 Mar 22 - 6 Mar 22
+78,10.65,(0.0),Jeremy Dodson,34,SAM,"Meilen, SUI",2 Jul 22
+79,10.66,(+1.4),Jason Smyth,34,IRL,"Belfast, GBR",18 Jun 22
+79,10.66,(-0.1),Miles Lewis,31,USA,"Carolina, PUR",3 Jun 22 - 5 Jun 22
+81,10.67,(-0.8),Ayman Mohammed Ahmed Said,33,EGY,"El Maadi, EGY",27 Mar 22 - 30 Mar 22
+81,10.67,(+1.3),Ancuiam Lopes,31,POR,"Lens, FRA",19 Jun 22
+83,10.68,(-1.2),Grant Plenderleith,31,GBR,"Celle Ligure, ITA",14 Jun 22
+83,10.68,(+0.5),Samuel Osewa,31,GBR,"Wetzlar, GER",11 Jun 22
+83,10.68,(+2.4),Kostas Skrabulis,30,LTU,"Valmiera, LAT",29 Jul 22 - 30 Jul 22
+86,10.69,(+3.2),Andre Wright,30,GBR,"Manchester, GBR",24 Jun 22 - 26 Jun 22
+86,10.69,(2.7 ),Tom Templeton,30,AUS,"Geelong, AU-VI, AUS",17 Dec 22
+88,10.70,(-0.1),Gideon Ernst Narib,32,NAM,"St Pierre, MRI",8 Jun 22 - 12 Jun 22
+88,10.70,(+1.2),Nathan Gyger,30,SUI,"Ibach, SUI",21 May 22
+88,10.70,(+1.1),Melique Garcia,30,HON,"Eugene, OR, USA",15 Jul 22 - 22 Jul 22
+91,10.71,(-0.2),Keene Charles Motukisi,31,BOT,"Gaborone, BOT",30 Apr 22
+91,10.71,(+2.0),Moise Coulanges,30,FRA,"Montreuil, FRA",19 Jun 22
+91,10.71,(+1.8),Jovanni Parkinson,30,USA,"New York, NY, USA",12 Jun 22
+94,10.72,(+2.2),Nathan Riali,31,AUS,"Sydney, AU-NS, AUS",30 Mar 22 - 3 Apr 22
+95,10.73,(0.1),Charles Jackson,34,USA,"Lexington, KY, USA",28 Jul 22 - 31 Jul 22
+95,10.73,(+1.1),Michał Derus,31,POL,"Szczecin, POL",17 Jun 22 - 19 Jun 22
+95,10.73,(NWI),Md Ismail,30,BAN,"Dhaka, BAN",23 Dec 22 - 25 Dec 22
+95,10.73,(-0.3),Akihiro Chikusa,30,JPN,"Gifu, JPN",23 Sep 22 - 25 Sep 22
+99,10.74,(+0.2),Jean Tarcisius Batambock,34,CMR,"Douala, CMR",27 Mar 22
+99,10.74,(+1.0),Stephen Dunlop,32,GBR,"Genève, SUI",11 Jun 22
+99,10.74,(2.1),Philipp Handler,30,SUI,"Bulle, SUI",9 Jul 22
+102,10.75,(+0.7),Seisho Maeda,31,JPN,"Gifu, JPN",23 Sep 22 - 25 Sep 22
+103,10.76,(+2.5),Juan Pablo Gutiérrez M.,34,MEX,"Morelia, MEX",2 Jun 22 - 5 Jun 22
+103,10.76,"(+0,1)",Øyvind Strømmen Kjerpeset,30,NOR,"Oslo/Bi, NOR",25 Aug 22
+105,10.77,(+1.2),Nzelibesse Donaldson Kouassi,34,ITA,"Saronno, ITA",21 May 22 - 22 May 22
+105,10.77,(+0.2),Cameron Parker,31,USA,"Nembro, ITA",2 Aug 22
+105,10.77,(+1.7),Zoltán István Orosz,30,HUN,"Maribor, SLO",14 Jun 22
+108,10.78,(+3.6),Florent Ribet,33,FRA,"Toulon, FRA",9 Jul 22
+108,10.78,(+0.4),Dominik Distelberger,32,AUT,"St. Pölten, AUT",25 Jun 22 - 26 Jun 22
+108,10.78,(-0.6),D'Angelo Cherry,31,USA,"Miami, FL, USA",28 May 22
+108,10.78,(+0.8),Abdullah Iswandi,31,INA,"Semarang, INA",6 Aug 22 - 11 Aug 22
+108,10.78,(1.7),Cody Bidlow,30,USA,"Chula Vista, CA, USA",9 Jul 22
+108,10.78,(+2.3),Sebastien Lins,30,BEL,"Ninove, BEL",10 Aug 22
+108,10.78,(+0.1),Hironiro Nakajima,30,PAR,"Gifu, JPN",23 Sep 22 - 25 Sep 22
+115,10.79,(NWI),Pedro Cruz,31,PUR,"Akita, JPN",4 Jun 22 - 5 Jun 22
+115,10.79,(-0.1),Alex Beechey,31,CYP,"Limassol, CYP",25 Jun 22 - 26 Jun 22
+115,10.79,(+2.9),János Sipos,30,HUN,"Gyor, HUN",10 Sep 22
+118,10.80,(+2.7),Jeffrey Julmis,34,HAI,"Miami, FL, USA",23 Apr 22
+118,10.80,(+3.0),Anthony Branciforti-Tanefo,30,FRA,"Antony, FRA",28 May 22
+120,10.81,(+0.9),Lenyn Kish Leonce,31,LCA,"Le Lorrain, FRA",14 May 22
+121,10.82,(0.0),Elvis Kryukov,30,CYP,"Patra, GRE",23 Jul 22 - 24 Jul 22
+122,10.83,(+1.6),Hirouki Sato,32,JPN,"Gifu, JPN",23 Sep 22 - 25 Sep 22
+123,10.84,(-0.3),Pedro Bernardo,33,POR,"Leiria, POR",25 Jun 22 - 26 Jun 22
+123,10.84,(+0.8),Izzet Safer,31,TUR,"Bursa, TUR",11 Jun 22 - 12 Jun 22
+125,10.85,(+0.2),Vyacheslav Kolesnichenko,32,RUS,"Cheboksary, RUS",2 Aug 22 - 5 Aug 22
+126,10.86,(+3.8),Anilha-Edinho Dermont,31,FRA,"Bordeaux, FRA",1 Jun 22
+127,10.87,(+0.9),Tatsuya Hattori,34,JPN,"Gifu, JPN",23 Sep 22 - 25 Sep 22
+127,10.87,(+1.3),Kenneth Vuong,31,AUS,"Sydney, AU-NS, AUS",30 Mar 22 - 3 Apr 22
+127,10.87,(+1.6),Ilya Shkurenyov,31,RUS,"Cheboksary, RUS",2 Aug 22 - 5 Aug 22
+127,10.87,(-0.4),Tumisang Khunou,31,RSA,"Johannesburg, RSA",13 Apr 22
+127,10.87,(+3.1),Felix Roussel,30,FRA,"Tomblaine, FRA",12 Jun 22
+127,10.87,(+0.1),Nicolas Grimault,30,FRA,"Cognac, FRA",1 May 22
+133,10.88,(-0.4),Wendyam-Innocen Bologo,32,BUR,"Lisieux, FRA",29 May 22
+133,10.88,(0.6 ),Brandon Smith-Drouin,31,CAN,"Ottawa, ON, CAN",13 Jul 22
+133,10.88,(-0.3 ),Marco Martini,31,ITA,"Montebelluna, ITA",13 Jul 22
+136,10.89,(NWI),Jason Paris,32,PUR,"Akita, JPN",4 Jun 22 - 5 Jun 22
+136,10.89,(+2.4),Massimiliano Ferraro,31,ITA,"Trieste, ITA",28 May 22
+138,10.90,(-0.2 ),Roscoe Engel,33,RSA,"Green Point, Cape Town, WC, RSA",28 May 22
+138,10.90,(+0.6),Min-Kyun Kim,32,KOR,"Daegu, KOR",19 Apr 22
+138,10.90,(+0.7),Filip Ištvanović,30,SRB,"Kruševac, SRB",25 Jun 22 - 26 Jun 22
+141,10.91,(+3.1),Richard Richardson,34,ANT,"Miami, FL, USA",23 Apr 22
+141,10.91,(+2.9),Deimantas Špučys,31,LTU,"Šiauliai, LTU",25 Jun 22 - 26 Jun 22
+143,10.92,(+0.6),Jeremy Boutherin,33,FRA,"Thonon Les Bains, FRA",19 Jun 22
+143,10.92,(+3.8),Alban Doue Tai,32,FRA,"Bordeaux, FRA",1 Jun 22
+143,10.92,(+1.6),William Moutoussamy,32,FRA,"Bischwiller, FRA",5 Jun 22
+143,10.92,(+1.8),Alan Alais,31,FRA,"Saint Laurent Du Maroni, FRA",22 May 22
+143,10.92,(+1.4),Jeremy Lelievre,31,FRA,"Montpellier, FRA",4 Jun 22 - 5 Jun 22
+143,10.92,(+0.5),Christoffer Envall,30,FIN,"Lapua, FIN",13 Jul 22
+149,10.93,(+0.1),Akihiko Nakamura,31,JPN,"Akita, JPN",4 Jun 22 - 5 Jun 22
+149,10.93,(+0.8),Husain Al Mezal,31,KUW,"Mashhad, IRI",29 May 22 - 30 May 22
+149,10.93,(+3.0),Pape Ousmane Ndiaye,30,SEN,"Dakar, SEN",25 Jun 22
+152,10.94,(NWI),Eric Shauwn Cray,33,PHI,"Akita, JPN",4 Jun 22 - 5 Jun 22
+152,10.94,(+0.4),Eduard Mikhan,33,BLR,"Minsk, BLR",16 Aug 22 - 18 Aug 22
+152,10.94,(-0.2 ),Martin Roe,30,NOR,"München, GER",15 Aug 22 - 21 Aug 22
+152,10.94,(0.1),Kotaro Kaji,30,JPN,"各務原市, JPN",23 Oct 22
+152,10.94,(0.0 ),Karo Iga,30,PNG,"Birmingham, GBR",30 Jul 22 - 7 Aug 22
+157,10.95,(+1.9),Georni Jaramillo Caceres,33,VEN,"Grosseto, ITA",30 Apr 22 - 1 May 22
+157,10.95,(0.2),Ramiro Alvarez,32,HON,"Lancaster, TX, USA",18 Jun 22
+159,10.96,(1.1 ),Lachlan McLean,34,AUS,"Homebush, AU-NS, AUS",22 Oct 22
+160,10.97,(+0.6),Teo Petrov,31,BUL,"Veliko Tarnovo, BUL",11 Jun 22 - 12 Jun 22
+160,10.97,(1.3),Curt Ruiters,30,RSA,"Green Point, Cape Town, WC, RSA",19 Mar 22
+160,10.97,(0.1),Maurice Pierce,30,USA,"Lexington, KY, USA",28 Jul 22 - 31 Jul 22
+163,10.98,(+3.7),Larbi Bourrada,34,ALG,"St Pierre, MRI",8 Jun 22 - 12 Jun 22
+163,10.98,(+1.5),Sunnat Ismailov,30,UZB,"Tashkent, UZB",4 Jun 22 - 5 Jun 22
+165,11.00,(-0.6),Dimitri Rholaas,34,SUR,"Miami, FL, USA",28 May 22
+165,11.00,(+2.2),Danas Sodaitis,33,LTU,"Palanga, LTU",3 Jun 22 - 4 Jun 22
+167,11.01,(0.0 ),Kurt Felix,34,GRN,"Birmingham, GBR",30 Jul 22 - 7 Aug 22
+167,11.01,(-0.9),Paweł Wiesiołek,30,POL,"Götzis, AUT",28 May 22 - 29 May 22
+169,11.02,(-0.6),Sofronios Charpas,31,CYP,"Limassol, CYP",25 Jun 22 - 26 Jun 22
+169,11.02,(-0.1),Vagiani Vagianos,30,CYP,"Limassol, CYP",25 Jun 22 - 26 Jun 22
+169,11.02,(+3.0),Charlie Roe,30,GBR,"Manchester, GBR",24 Jun 22 - 26 Jun 22
+172,11.03,(-0.9),Michio Yamaguchi,31,JPN,"Gifu, JPN",23 Sep 22 - 25 Sep 22
+172,11.03,"(+1,0)",Carl Emil Kåshagen,31,NOR,"Oslo/St, NOR",9 Jul 22
+172,11.03,(1.3 ),Michał WŁodarczyk,31,POL,"Poznań, POL",11 Jun 22 - 12 Jun 22
+175,11.04,(+1.6),Yendountien Tiebekabe,31,TOG,"Toul, FRA",10 Jun 22
+176,11.06,(+5.0),Mohamed Ousseni,33,FRA,"L'etang Sale, FRA",4 Jun 22 - 5 Jun 22
+176,11.06,(+1.7),Steve Camilleri,30,MLT,"Marsa, MLT",6 Jul 22 - 10 Jul 22
+176,11.06,(+1.0),Daniel Dobrev,30,BUL,"Veliko Tarnovo, BUL",11 Jun 22 - 12 Jun 22
+176,11.06,(+0.2),Christoph Hansen,30,GER,"Aachen, GER",28 May 22 - 29 May 22
+180,11.07,(+3.0),Cedric Kisungo,34,FRA,"Montgeron, FRA",11 Jun 22 - 12 Jun 22
+180,11.07,(0.1),Levance Williams Sr,34,USA,"Lexington, KY, USA",28 Jul 22 - 31 Jul 22
+180,11.07,(-1.0),Sota Kawatsura,33,JPN,"Gifu, JPN",23 Sep 22 - 25 Sep 22
+180,11.07,(+1.6),Andre Harrell,31,USA,"Miami, FL, USA",23 Apr 22
+180,11.07,"(+1,8)",Aleksi Kuusinen,30,FIN,"Kuortane, FIN",18 Jun 22
+185,11.08,(+0.2),Jim-Yung Joo,33,KOR,"Daegu, KOR",19 Apr 22
+185,11.08,(-1.0),Kazuki Urakawa,31,JPN,"Gifu, JPN",23 Sep 22 - 25 Sep 22
+185,11.08,(+2.2),Chad Perris,30,AUS,"Sydney, AU-NS, AUS",30 Mar 22 - 3 Apr 22
+188,11.09,(-1.3),Florian Daum,31,GER,"Berlin, GER",23 Jun 22 - 26 Jun 22
+188,11.09,(+3.8),Adrien Ferlet,31,FRA,"Lamballe, FRA",18 Jun 22 - 19 Jun 22
+188,11.09,(+0.5),Wicher Nijkamp,30,NED,"Leiden, NED",11 Jun 22
+188,11.09,(-0.7),Ismail-Jean Condé,30,GER,"Schifflange, LUX",24 Jun 22 - 26 Jun 22
+192,11.10,(+1.5),Gerard O'Donnell,34,IRL,"Tilburg, NED",6 Jun 22
+193,11.12,(-0.6),Adam Harris,34,GUY,"Miami, FL, USA",28 May 22
+193,11.12,(-0.5),Kai Kazmirek,31,GER,"Ratingen, GER",7 May 22 - 8 May 22
+193,11.12,(+2.5),Brandyn Martineau,30,CAN,"London, ON, CAN",29 May 22
+196,11.13,(+0.9),Erik Gómez,32,PUR,"Carolina, PUR",17 Mar 22 - 19 Mar 22
+196,11.13,(0.1 ),Jermaine Dwight,30,GBR,"Newark, DE, USA",4 Jun 22
+196,11.13,(-0.2 ),Adam Sebastian Helcelet,30,CZE,"München, GER",15 Aug 22 - 21 Aug 22
+199,11.14,( ),Ronald Rodrigues Lopes,30,BRA,"Bragança Paulista, BRA",5 Nov 22 - 6 Nov 22
+200,11.15,(0.4 ),Liam Gander,33,AUS,"Brisbane, AU-QL, AUS",5 Mar 22 - 6 Mar 22
+200,11.15,(-0.3),Daisuke Akiyama,32,JPN,"Gifu, JPN",23 Sep 22 - 25 Sep 22
+200,11.15,(0.1),Xavier Parnell,31,USA,"Lexington, KY, USA",28 Jul 22 - 31 Jul 22
+200,11.15,(3.4 ),Kristofer Lam,30,CAN,"TTFC, Toronto, ON, CAN",2 Jul 22 - 3 Jul 22
+204,11.17,(1.0),Daniel Olivera,30,AUS,"Barden Ridge, AU-NS, AUS",5 Mar 22
+205,11.18,(+4.0),Benjamin Osete,32,FRA,"Andrezieux Boutheon, FRA",30 Apr 22
+205,11.18,(+2.2),Gilles Nonone,32,FRA,"Montfort Sur Meu, FRA",9 Jul 22
+205,11.18,(-1.1),Robert Brylinski,31,POL,"Piła, POL",21 May 22
+205,11.18,(+1.5),Marek Lukáš,31,CZE,"Talence, FRA",17 Sep 22 - 18 Sep 22
+209,11.19,(+0.6),Maxime Ruggeri,31,FRA,"Montgeron, FRA",11 Jun 22 - 12 Jun 22
+209,11.19,(-2.5),Ruwan Gunasinghe,30,AUS,"Sydney, AU-NS, AUS",26 Nov 22
+211,11.20,(+0.5),Philip Meuli,33,SUI,"Bern, SUI",14 Jun 22
+211,11.20,(NWI),Benjamin Monnel,30,FRA,"Montereau Fault Yonne, FRA",7 May 22
+213,11.21,(+1.8),Jossuah Brena,30,FRA,"Saran, FRA",11 Jun 22 - 12 Jun 22
+214,11.22,(NWI),Rondell Paul,33,TTO,"Port of Spain, TTO",20 May 22
+214,11.22,(+0.1),Brian Mayengo,32,RSA,"Canberra, AU-AC, AUS",28 Jan 22 - 30 Jan 22
+214,11.22,(+0.3),Ross Lovell,30,AUS,"Hobart, AU-TA, AUS",18 Feb 22 - 20 Feb 22
+217,11.23,(+1.5),Jeremie Thiebaud,32,FRA,"Venissieux, FRA",30 Apr 22
+217,11.23,(+0.5),Amine Ouzeri,31,FRA,"Nice, FRA",8 May 22
+217,11.23,(1.2),Gogi Rai,31,AUS,"Brisbane, AU-QL, AUS",1 Apr 22 - 4 Apr 22
+217,11.23,(-1.6),Ousmane Bailou,30,BUR,"Bobo-Dioulasso, BUR",2 Jul 22 - 3 Jul 22
+221,11.24,(+3.2),Dominique Mendes,33,FRA,"Villejuif, FRA",30 Apr 22
+221,11.24,(2.7),Nathan Johnson,31,USA,"Naperville, IL, USA",13 May 22 - 14 May 22
+221,11.24,(+2.7),Ville Kattelus,30,FIN,"Joensuu, FIN",4 Aug 22 - 7 Aug 22
+221,11.24,(-1.4),Damian Czykier,30,POL,"Karpacz , POL",27 Aug 22
+225,11.25,(1.6 ),Ethan Mignard,33,USA,"Weston, MA, USA",30 Jul 22
+225,11.25,(+0.9),Yannick Martin,31,FRA,"Venissieux, FRA",13 May 22
+227,11.27,(3.2 ),Justo Daniel Arce,33,ARG,"San Luis, ARG",29 Sep 22 - 2 Oct 22
+227,11.27,(+0.2),Marius Vadeikis,32,LTU,"Šiauliai, LTU",10 Jun 22 - 11 Jun 22
+227,11.27,(0.7 ),Julian Opitz,30,GER,"Dillingen, GER",16 Jul 22
+227,11.27,(+1.1),Paweł Gadżała,30,POL,"Częstochowa, POL",9 Jul 22
+227,11.27,(-0.1),Matthias Steinmann,30,SUI,"Kreuzlingen, SUI",18 Jun 22 - 19 Jun 22
+232,11.28,(+0.7),Vicente Guardiola,30,ESP,"Nerja, ESP",24 Jun 22 - 26 Jun 22
+233,11.29,(2.7 ),Josh Steyn-Ross,34,AUS,"Geelong, AU-VI, AUS",17 Dec 22
+233,11.29,(-0.9 ),Oliver Grant,31,CAN,"Arva, ON, CAN",18 Jul 22
+235,11.30,(-0.4),Nick Ekelund Arenander,33,SWE,"Tårnby, DEN",16 Aug 22
+235,11.30,(+1.9),Samir Demnati,33,FIN,"Kankaanpää, FIN",19 Jul 22 - 20 Jul 22
+237,11.32,(+0.7),Javier Pérez,34,ESP,"Nerja, ESP",24 Jun 22 - 26 Jun 22
+237,11.32,(+0.7),Jeroen Piek,32,NED,"Leiden, NED",11 Jun 22
+237,11.32,(+1.0),Sebastian Groß,31,GER,"Mannheim, GER",2 Jul 22 - 3 Jul 22
+237,11.32,(0.0 ),Lachlan Parry,30,AUS,"Maitland, AU-NS, AUS",21 Jan 22 - 23 Jan 22
+237,11.32,(-0.2 ),Niels Pittomvils,30,BEL,"München, GER",15 Aug 22 - 21 Aug 22
+242,11.33,(-0.4),Andrew Pedrana,30,AUS,"Sydney, AU-NS, AUS",30 Mar 22 - 3 Apr 22
+242,11.33,(-0.6 ),Raul Augusto Saavedra Calvo,30,CRC,"San José, CRC",17 Sep 22 - 18 Sep 22
+242,11.33,(-0.5),Marius Florin Serban,30,ROU,"Craiova, ROU",24 Jun 22 - 26 Jun 22
+245,11.34,(+1.1),Zakaria El Maattal,33,FRA,"Chalons En Champagne, FRA",22 Jun 22
+245,11.34,(-0.2 ),Chevan Clarke,32,RSA,"Green Point, Cape Town, WC, RSA",28 May 22
+245,11.34,(+0.6),Jackson Walker,30,USA,"Fayetteville, AR, USA",6 May 22 - 7 May 22
+248,11.35,(1.4 ),Gurpreet Rai,31,AUS,"Albert Park, AU-VI, AUS",19 Mar 22 - 20 Mar 22
+248,11.35,( NWI),José Gregorio Lemus,30,COL,"Bogotá, COL",6 May 22 - 8 May 22
+250,11.36,"(+2,5)",Oskari Leppänen,33,FIN,"Porvoo, FIN",10 Jul 22
+250,11.36,(+0.9),Armen-Maoulida Abdou,32,FRA,"Notre Dame de Gravenchon, FRA",9 Jul 22
+250,11.36,(+2.1),Bjarni Páll Pálsson,31,ISL,"Hafnarfjördur, ISL",25 Jun 22 - 26 Jun 22
+250,11.36,(+1.6),Yevgeniy Chernov,30,RUS,"Cheboksary, RUS",2 Aug 22 - 5 Aug 22
+254,11.37,(+2.1),Mathias Olsen,31,DEN,"Frederiksberg, DEN",23 Aug 22
+255,11.38,(NWI ),Willem de Beer,34,RSA,"Pretoria, G, RSA",5 May 22 - 7 May 22
+255,11.38,(+3.7),Gilbert Koech,32,KEN,"St Pierre, MRI",8 Jun 22 - 12 Jun 22
+255,11.38,(+1.7),Axel Cortet,31,FRA,"Saran, FRA",11 Jun 22 - 12 Jun 22
+255,11.38,(+1.5),Marcus Nilsson,31,SWE,"Talence, FRA",17 Sep 22 - 18 Sep 22
+255,11.38,(+1.7),Jorge Luis Castillo Vega,30,PAN,"Managua, NCA",2 Jul 22 - 3 Jul 22
+260,11.39,(+0.2),Attila Baranyay,34,AUS,"Canberra, AU-AC, AUS",28 Jan 22 - 30 Jan 22
+260,11.39,(0.0),Pál Gönczi,30,HUN,"Budapest, HUN",24 Jun 22 - 26 Jun 22
+262,11.40,(+1.1),Christoph Ewinger,31,GER,"Filderstadt, GER",27 Aug 22 - 28 Aug 22
+262,11.40,(+2.4),Mattia Crivellaro,31,ITA,"Vicenza, ITA",6 Aug 22
+262,11.40,(+0.1),Yoane Mboungou,30,FRA,"Saint Etienne, FRA",5 Jun 22
+265,11.41,(+2.7),Petri Lemmetyinen,33,FIN,"Joensuu, FIN",4 Aug 22 - 7 Aug 22
+266,11.42,(+1.6),Yevgeniy Sarantsev,34,RUS,"Cheboksary, RUS",2 Aug 22 - 5 Aug 22
+266,11.42,(1.2),Brendan Ashcroft,31,AUS,"Brisbane, AU-QL, AUS",1 Apr 22 - 4 Apr 22
+266,11.42,(+1.4),Mikel de Sa,31,AND,"LA Nucia, ESP",20 May 22 - 22 May 22
+269,11.44,(+1.3),Samuel Jeannes,34,FRA,"Bouaye, FRA",16 Apr 22 - 17 Apr 22
+269,11.44,(+2.2),Bastien Auzeil,32,FRA,"Montpellier, FRA",4 Jun 22 - 5 Jun 22
+269,11.44,(+3.0),Jakub Sobiech,32,POL,"Toruń, POL",16 Jun 22
+269,11.44,(+0.9),Blaž Brulc,30,SLO,"Maribor, SLO",14 Jun 22
+273,11.46,(NWI),Nikbaf Abbas,32,IRI,"Mashhad, IRI",29 May 22 - 30 May 22
+273,11.46,(NWI),Garren Hendricks,32,USA,"Topeka, KS, USA",8 Jul 22 - 9 Jul 22
+273,11.46,(1.4),Hazir Inoussa,32,FRA,"Nice, FRA",15 Jun 22
+273,11.46,(0.6),Jelani Knight,30,USA,"New Brunswick, NJ, USA",24 Jun 22 - 26 Jun 22
+273,11.46,(+2.0),Tommi Eerola,30,FIN,"Kotka, FIN",20 Jul 22
+278,11.47,(+0.6),Mathew Clark,34,USA,"Fayetteville, AR, USA",6 May 22 - 7 May 22
+278,11.47,(0.0 ),Tim Eschebach,33,AUS,"Maitland, AU-NS, AUS",21 Jan 22 - 23 Jan 22
+278,11.47,(+0.7),Eric Rossell,31,ESP,"Nerja, ESP",24 Jun 22 - 26 Jun 22
+278,11.47,(+0.8),Jean-Michel Morin,31,FRA,"Ocquerre, FRA",29 May 22
+282,11.48,"(+0,6)",Paul-Louis O'Rock,33,NOR,"Oslo/Bi, NOR",30 Jun 22
+282,11.48,(+2.7),Julien Payeux,32,FRA,"Lens, FRA",19 Jun 22
+284,11.50,(+2.2),Benjamin Fenrich,31,FRA,"Montpellier, FRA",4 Jun 22 - 5 Jun 22
+284,11.50,(+0.0),Charles Roth,31,FRA,"Troyes, FRA",30 Apr 22
+284,11.50,(0.6),Antoine Nourazar,30,FRA,"Yverdon-Les-Bains, SUI",1 Oct 22
+287,11.51,(-1.2),Mihai Lucian Stramb,32,ROU,"Craiova, ROU",24 Jun 22 - 26 Jun 22
+287,11.51,(NWI),Teran Wakefield,31,USA,"Leesburg, VA, USA",28 May 22
+287,11.51,(-1.1),Bartosz Dudek,30,POL,"Warszawa, POL",18 Jun 22 - 19 Jun 22
+290,11.52,(+0.6),Jeremie Altbiess,34,FRA,"Strasbourg, FRA",18 Jun 22
+290,11.52,(+0.7),Pierre Ratineau Mace,33,FRA,"LA Fleche, FRA",8 Jul 22
+290,11.52,(+2.2),Aurelien Lantsoght,32,FRA,"Neuves Maisons, FRA",23 Apr 22
+290,11.52,(+2.7),Otto Ylöstalo,31,FIN,"Joensuu, FIN",4 Aug 22 - 7 Aug 22
+294,11.53,(3.2 ),Facundo Gabriel Pettina,30,ARG,"San Luis, ARG",29 Sep 22 - 2 Oct 22
+295,11.54,(-0.5 ),Marco Lamaina,32,ITA,"Montebelluna, ITA",13 Jul 22
+295,11.54,(-4.2 ),Maxime Beauchesne,31,CAN,"Den Haag, NED",23 Jul 22 - 28 Jul 22
+297,11.55,(+2.4),Clement Paillarguelo,32,FRA,"L'etang Sale, FRA",21 May 22 - 22 May 22
+297,11.55,(-0.2),Shamar McKen,31,USA,"Tampa, FL, USA",27 May 22
+299,11.56,(+0.0),Pierre Houdayer,33,FRA,"Limoges, FRA",15 Jun 22
+300,11.57,(NWI),Esteban Garcia,33,USA,"New Britain, CT, USA",9 Jul 22
+301,11.58,(2.2 ),Samuel Heymans,32,BEL,"Nivelles, BEL",30 Apr 22
+301,11.58,(NWI ),Jean-Pierre Kitshoff,30,RSA,"Pretoria, G, RSA",5 May 22 - 7 May 22
+301,11.58,(-1.5),Arthur Bizet,30,FRA,"Noisy Le Grand, FRA",14 May 22 - 15 May 22
+301,11.58,"(–1,0)",Ilpo Kantanen,30,FIN,"Keuruu, FIN",24 Jun 22
+305,11.59,(+3.0),Łukasz Tylak,32,POL,"Toruń, POL",16 Jun 22
+305,11.59,(+3.2),Michael Noes Andersen,31,DEN,"Hvidovre, DEN",28 May 22
+305,11.59,(1.7 ),Reyor Ko,31,SIN,"Gold Coast, AU-QL, AUS",5 Nov 22 - 7 Nov 22
+305,11.59,(-0.8),Briander Riveiro,30,CUB,"LA Habana, CUB",18 Mar 22 - 20 Mar 22
+305,11.59,(-0.9),Sebastian Demski,30,POL,"Warszawa, POL",23 Jul 22
+310,11.60,(+0.8),Quentin Zebiri,32,FRA,"Marquette Lez Lille, FRA",6 Jul 22
+310,11.60,(+1.3),Guillaume Fleuter,32,FRA,"Caen, FRA",8 May 22
+312,11.61,(-1.1),Maksim Korolyov,34,RUS,"Cheboksary, RUS",2 Aug 22 - 5 Aug 22
+312,11.61,(0.2 ),Ta'Masz Bailey,31,USA,"Eugene, OR, USA",7 May 22
+312,11.61,(+1.0),Kevin Akhmysse,30,FRA,"Deuil LA Barre, FRA",29 Jun 22
+315,11.62,(-2.5),Michael Bowler,30,IRL,"Carlow, IRL",28 May 22 - 29 May 22
+316,11.65,(-1.9 ),Saravee Sos,31,NZL,"Wellington, NZL",2 Dec 22 - 4 Dec 22
+316,11.65,(0.1),Tyler Powell,30,USA,"Lexington, KY, USA",28 Jul 22 - 31 Jul 22
+316,11.65,(-0.3 ),Keisuke Sumita,30,JPN,"Gunma, JPN",11 Sep 22
+319,11.66,(-0.1 ),Arturo Durán Mena,33,CHI,"Bogotá, COL",20 Nov 22 - 27 Nov 22
+319,11.66,(+0.6),Vincent Regent,33,FRA,"Chalon Sur Saone, FRA",22 May 22
+319,11.66,(+2.9),Florent Seyer,31,FRA,"Dax, FRA",4 Jun 22
+319,11.66,(0.0 ),Bobby Lewis,30,USA,"Falls Church, VA, USA",16 Jul 22
+323,11.67,(-0.3),Lyes Belkhiari,34,ALG,"Tours, FRA",30 Apr 22 - 1 May 22
+323,11.67,(NWI),Callen Schwank,31,USA,"Lincoln, NE, USA",16 Jul 22
+323,11.67,(+2.0),Erwan Le Rolland,31,FRA,"Antony, FRA",28 May 22
+326,11.68,(-0.8),Lukáš Lehocký,33,CZE,"Olomouc, CZE",8 May 22
+326,11.68,(-2.1 ),Strimb Mihai,32,ROU,"Craiova, ROU",4 Jun 22 - 5 Jun 22
+328,11.69,(-0.2 ),Ryle de Morny,33,RSA,"Green Point, Cape Town, WC, RSA",28 May 22
+328,11.69,(0.8 ),Yuta Yamaguchi,33,JPN,"Kariya, JPN",21 Aug 22
+328,11.69,(1.4),Nate Scales,31,USA,"New Brunswick, NJ, USA",24 Jun 22 - 26 Jun 22
+328,11.69,(NWI),Jesús Armando Marquez L,30,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+332,11.70,( NWI),Alexandrew Hintzen,33,USA,"Miami, FL, USA",23 Apr 22
+333,11.73,(+3.2),Tibo Drouet,33,FRA,"Toulon, FRA",9 Jul 22
+333,11.73,(-0.5 ),Matthew Wyatt,31,NZL,"Hastings, NZL",3 Mar 22 - 6 Mar 22
+333,11.73,(1.4),Dominik Löffel,31,SUI,"Langenthal, SUI",26 May 22
+333,11.73,( ),Kaya Chihungi,30,AUT,"St. Pölten, AUT",26 May 22
+337,11.74,(2.0 ),Nicolas Nemouthe,33,FRA,"Aulnay sous Bois, FRA",28 May 22 - 29 May 22
+337,11.74,(+0.8),Wilfried Jabot,32,FRA,"Deuil LA Barre, FRA",29 Jun 22
+337,11.74,"(+1,1)",Imran Mahmood,30,NOR,"Lillehammer, NOR",19 Jun 22
+340,11.75,(1.4 ),Andrew Godin,33,AUS,"Albert Park, AU-VI, AUS",19 Mar 22 - 20 Mar 22
+341,11.76,(+0.0),Hakim Lakhlef,32,FRA,"Albertville, FRA",10 Jun 22
+341,11.76,(-0.2),Baptiste Chateau,31,FRA,"Chateauroux, FRA",22 May 22
+343,11.77,(+1.4),Frederik Regli,32,DEN,"Frederiksberg, DEN",23 Aug 22
+343,11.77,(-1.2 ),Daniel Andersson,31,SWE,"Arvika, SWE",23 Jul 22 - 24 Jul 22
+343,11.77,(2.3 ),Greg Mitchell,31,AUS,"Geelong, AU-VI, AUS",8 Oct 22
+346,11.79,(+0.5),Jaakob Kakko,33,FIN,"Turku, FIN",20 Jul 22
+347,11.80,"(+1,1)",Øyvind Bu,34,NOR,"Fana, NOR",29 May 22
+347,11.80,(+3.5),Durante' Ponder,33,BAH,"Miami, FL, USA",23 Apr 22
+347,11.80,(0.6 ),Fritz Ekane,32,SWE,"Södertälje, SWE",19 Jun 22
+350,11.81,(0.3 ),Alec Eiszele,34,AUS,"Hobart, AU-TA, AUS",18 Feb 22 - 20 Feb 22
+350,11.81,(-0.8),Rin Masuhara,32,JPN,"Gifu, JPN",23 Sep 22 - 25 Sep 22
+352,11.83,(-0.1 ),Luis Asprilla Asprilla,33,COL,"Bogotá, COL",20 Nov 22 - 27 Nov 22
+352,11.83,(0.4 ),Alexander Loo,31,SIN,"Singapore, SIN",4 Jun 22 - 5 Jun 22
+352,11.83,(0.4 ),Daryl Liew,31,SIN,"Singapore, SIN",4 Jun 22 - 5 Jun 22
+355,11.85,(+0.9),Jeffrey Antemer,30,FRA,"Deuil LA Barre, FRA",29 Jun 22
+356,11.86,(0.8),Sean Nguyen,31,USA,"Claremont, CA, USA",2 Jul 22
+356,11.86,(NWI),Daniel Villareal Z,30,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+358,11.87,(-0.2),Kevin Gostymen,33,FRA,"Bretigny Sur Orge, FRA",23 Jun 22
+359,11.88,(+2.4),Nicolas Goncalves,31,FRA,"Amiens, FRA",2 Jul 22 - 3 Jul 22
+359,11.88,(1.7 ),Gulsher Singh,30,AUS,"Gold Coast, AU-QL, AUS",5 Nov 22 - 7 Nov 22
+361,11.89,(+1.2),Faddy Omar,32,CAN,"Boulder, CO, USA",13 Aug 22 - 14 Aug 22
+361,11.89,(+0.2),Hermann-Davy Samnick,32,FRA,"Nogent Sur Marne, FRA",23 Jun 22
+361,11.89,(-0.1),Jean-Antoine Marcaggi,31,FRA,"Ajaccio, FRA",15 May 22
+364,11.90,(+2.8),Acindyne Houinato,31,BEN,"Coulaines, FRA",24 Jun 22
+365,11.91,(-1.5),Dimitri Pavade,32,FRA,"Blagnac, FRA",8 May 22
+365,11.91,(1.3 ),Peter Rubaduka,31,NZL,"Brisbane, AU-QL, AUS",29 Oct 22
+367,11.92,(+1.1),Juan Carlos Montoro,33,ESP,"Málaga, ESP",4 Jun 22 - 5 Jun 22
+367,11.92,(+2.0),Jonathan Ando,33,FRA,"Lomme, FRA",11 Jun 22 - 12 Jun 22
+367,11.92,(+0.6),Paul-Andre Parent,31,FRA,"Pau, FRA",1 May 22
+367,11.92,(1.8 ),Clinton McEwan,30,AUS,"Homebush, AU-NS, AUS",22 Oct 22
+371,11.93,(-0.5),Dylan Joly,32,FRA,"Libourne, FRA",8 May 22
+371,11.93,(1.1),Nicolas Le Paven,30,FRA,"Frauenfeld, SUI",14 May 22 - 15 May 22
+371,11.93,(NWI),Alexander Mammone,30,AUS,"Clearview, AU-SA, AUS",5 Dec 22
+374,11.94,(0.5 ),Luiz Eduardo Gomes Moreno,33,BRA,"Florianópolis, BRA",9 Sep 22 - 11 Sep 22
+375,11.95,(-0.1 ),Romulo Alejandro Duarte V,30,MEX,"Bogotá, COL",20 Nov 22 - 27 Nov 22
+376,11.96,"(+0,3)",Martin Hole Hanstvedt,34,NOR,"Osterøy, NOR",14 Sep 22
+376,11.96,(+4.0),Victor Pascaud,32,FRA,"Grenoble, FRA",18 Jun 22
+378,11.97,(+0.6),Christophe Sodano,31,FRA,"Thann, FRA",24 Jun 22
+379,11.98,(1.4 ),Tim Rosen,33,AUS,"Albert Park, AU-VI, AUS",19 Mar 22 - 20 Mar 22
+379,11.98,(-0.3),Thibaud Bertelli,33,FRA,"Le Plessis Robinson, FRA",5 Jun 22
+379,11.98,(0.1),Troy Lloyd,31,USA,"Lexington, KY, USA",28 Jul 22 - 31 Jul 22
+382,11.99,(-1.5),Jeremy Dauge,32,FRA,"Laval, FRA",11 Jun 22 - 12 Jun 22
+382,11.99,"(–2,2)",Karim Jaiteh,31,FIN,"Kirkkonummi, FIN",17 May 22
+382,11.99,(-0.4),Alvaro Cáceres,31,CHI,"Santiago, CHI",29 May 22
+385,12.00,(+1.8),Dominique Tanasi,32,FRA,"Castres, FRA",8 Jun 22
+386,12.01,(-0.3),Matteo Di Palma,34,ITA,"Napoli, ITA",14 Jul 22
+386,12.01,(NWI),Giuseppe Mancuso,34,ITA,"Grosseto, ITA",10 Jun 22 - 12 Jun 22
+386,12.01,(0.8 ),Masato Takeuchi,34,JPN,"Kariya, JPN",21 Aug 22
+389,12.02,(+1.4),Julien Jonquois,34,FRA,"Marquette Lez Lille, FRA",6 Jul 22
+389,12.02,(+2.1),Julien Heurtin,32,FRA,"Montfort Sur Meu, FRA",8 May 22
+389,12.02,(-2.4 ),Pablo Peña Pezo,30,CHI,"Arica, CHI",25 Aug 22 - 27 Aug 22
+392,12.03,(1.3 ),Florian Nicolle,34,FRA,"Caen, FRA",1 Jun 22
+392,12.03,(-1.3),Sebastien Guillot,33,FRA,"Aix Les Bains, FRA",30 Apr 22
+392,12.03,(0.8),Eric Galli,32,SUI,"Bern, SUI",4 Jun 22
+392,12.03,(-0.7),Roland Fausch,30,SUI,"Bellinzona, SUI",24 Sep 22
+396,12.04,(1.8 ),Matthew Reid,33,AUS,"Homebush, AU-NS, AUS",22 Oct 22
+396,12.04,(+3.1),Elliott Poncet,31,FRA,"Remire Montjoly, FRA",12 Apr 22
+396,12.04,(-0.2),Christian Karstensen,31,DEN,"Randers, DEN",8 Jun 22
+396,12.04,(0.1),Aaron Dzinaku,31,SUI,"Tesserete, SUI",11 Jun 22
+400,12.05,(-0.7),Quentin Ruiz,34,FRA,"Rodez, FRA",22 May 22
+400,12.05,(0.9),Hugo Delottier,33,FRA,"Ibach, SUI",21 May 22
+400,12.05,(-0.4),Craig Fairburn,32,AUS,"Sydney, AU-NS, AUS",30 Mar 22 - 3 Apr 22
+403,12.07,(-0.3 ),Emmanuel Akpoviroro,34,CAN,"Surrey, BC, CAN",27 Aug 22 - 28 Aug 22
+403,12.07,(-3.2 ),Sonny Ong,33,CAN,"Toronto, ON, CAN",6 Aug 22 - 7 Aug 22
+403,12.07,(+0.1),Nicolas Vignolet,31,FRA,"Evreux, FRA",11 Jun 22
+406,12.09,(+0.0),Julien de Oliveira,33,FRA,"Paris, FRA",8 Jun 22
+406,12.09,( ),Marcus Brown,31,USA,"Taylors, SC, USA",25 Jun 22
+408,12.10,(+2.8),Demitrez Butler,32,USA,"San Diego, CA, USA",20 Apr 22
+408,12.10,(+0.5),Florian Matthias Rieker,32,GER,"Wetzlar, GER",11 Jun 22
+410,12.11,(NWI),Terence Maxwell,34,USA,"Los Gatos, CA, USA",5 Feb 22
+411,12.12,(0.3 ),Weiyi Lu,34,SIN,"Singapore, SIN",4 Jun 22 - 5 Jun 22
+411,12.12,(+0.0),Udu Pascal Nnanna,33,RSA,"Parow, Cape Town, WC, RSA",12 Feb 22
+411,12.12,(-0.1 ),Jonathan Jerez Rativa,33,COL,"Bogotá, COL",20 Nov 22 - 27 Nov 22
+414,12.13,"(+0,9)",Samuli Alppiranta,34,FIN,"Tammela, FIN",11 Jun 22
+415,12.14,(-1.2),Marino Mariano,34,ITA,"Avellino, ITA",14 May 22 - 15 May 22
+415,12.14,(0.4 ),Lafiama Wright,32,SIN,"Singapore, SIN",4 Jun 22 - 5 Jun 22
+415,12.14,(+1.7),Florent Gets,31,BEL,"Tielt, BEL",20 Aug 22 - 21 Aug 22
+418,12.15,(+0.8),Pierre Benoist,31,FRA,"Beaupreau, FRA",4 Jun 22
+419,12.16,(-0.1),Pershaun Wise Mathis,32,USA,"Landover, MD, USA",12 Jun 22
+420,12.18,(-0.3 ),Sunny Gill,30,CAN,"Surrey, BC, CAN",27 Aug 22 - 28 Aug 22
+421,12.19,(+1.1),Julien Cheuillot,31,FRA,"Dijon, FRA",26 Jun 22
+422,12.21,(+0.0),Baptiste Scalabrino,34,FRA,"Besancon, FRA",28 May 22 - 29 May 22
+422,12.21,(1.9 ),Ruco Henning,31,RSA,"Bloemfontein, FS, RSA",30 Sep 22 - 1 Oct 22
+422,12.21,(-4.2 ),Azham Bin Osman,30,MAS,"Den Haag, NED",23 Jul 22 - 28 Jul 22
+425,12.22,(-0.5),Bonny Ndungu,33,AUS,"Cannington, AU-WA, AUS",27 Feb 22 - 13 Mar 22
+425,12.22,(-1.4 ),Pascal Gliesche,32,GER,"Mahlow, GER",2 Sep 22 - 5 Sep 22
+425,12.22,(+2.0),Alexandre Feger,32,FRA,"Bordeaux, FRA",8 May 22
+425,12.22,"(–0,1)",Ville Sirviö,30,FIN,"Joensuu, FIN",23 Jun 22
+429,12.23,(+0.1),Philip Staib,31,DEN,"Haderslev, DEN",20 Sep 22
+430,12.24,(NWI),Abner Sair Membreño Godinez,34,NCA,"San José, CRC",3 Nov 22 - 6 Nov 22
+431,12.25,(-0.7),Thomas Hager,33,SUI,"Bellinzona, SUI",24 Sep 22
+431,12.25,( ),Italo Leite de Camargo,30,BRA,"Bragança Paulista, BRA",5 Nov 22 - 6 Nov 22
+433,12.26,(-1.4 ),Andre Möhl,30,GER,"Mahlow, GER",2 Sep 22 - 5 Sep 22
+434,12.27,(+0.2),Tomasz Rysio,34,POL,"Sieradz, POL",12 Jun 22
+434,12.27,(+1.7),Sophian Jayal,31,FRA,"Antony, FRA",28 May 22
+436,12.28,(+1.1),Florent Beltram,31,FRA,"Villejuif, FRA",16 Apr 22 - 17 Apr 22
+436,12.28,"(–0,1)",Joonas Lehtonen,31,FIN,"Pedersöre, FIN",11 Aug 22 - 14 Aug 22
+438,12.29,(-0.3),Manuel von Hinten,34,GER,"Chailly-Sur-Montreux, SUI",14 May 22
+438,12.29,(+0.9),Kalle Nuuttila,33,FIN,"Tampere, FIN",21 May 22 - 22 May 22
+438,12.29,(-0.2),David Meunier,32,FRA,"Bretigny Sur Orge, FRA",23 Jun 22
+438,12.29,(-0.2),Benaouda Benhalima,32,FRA,"Bretigny Sur Orge, FRA",23 Jun 22
+438,12.29,(2.4 ),Yecis Omal Amancio Rodriguez,32,ESP,"Lugo, ESP",4 May 22
+443,12.30,(+0.2),Szymon Myrta,34,POL,"Sieradz, POL",12 Jun 22
+443,12.30,(+1.2),Whesley El Khaoua,33,FRA,"Saint Jean de Luz, FRA",9 Jul 22
+443,12.30,"(-0,4)",Owen Westerhout,32,NED,"Masterton, NZL",14 Aug 22
+446,12.31,"(+0,9)",Janne Keskikastari,34,FIN,"Oulainen, FIN",14 Jun 22
+446,12.31,(+0.6),Aurelien Vaillant,32,FRA,"LA Norville, FRA",2 Jun 22
+446,12.31,(+0.0),Benoit Sencey,31,FRA,"Malakoff, FRA",10 May 22
+449,12.32,(0.3),Félix Maurer,34,FRA,"Genève, SUI",7 May 22
+449,12.32,(+0.7),Markku Tervo,33,FIN,"Turku, FIN",20 Jul 22
+451,12.33,"(-0,4)",Andreas Myklebust Benoni,34,NOR,"Oslo/Bi, NOR",30 Jun 22
+451,12.33,(-0.9 ),Dylan Brock,32,USA,"Weston, MA, USA",30 Jul 22
+451,12.33,(-0.9 ),Mariano Willat,31,URU,"Montevideo, URU",15 Oct 22 - 16 Oct 22
+454,12.35,(4.4 ),Jay Blake,34,AUS,"Geelong, AU-VI, AUS",17 Dec 22
+454,12.35,(+2.1),Fejiro Omuvwie,30,AUS,"Sydney, AU-NS, AUS",30 Mar 22 - 3 Apr 22
+456,12.36,(+0.1),Herve Rasamimanana,33,FRA,"Bretigny Sur Orge, FRA",23 Jun 22
+456,12.36,(-0.9 ),Elias Nuez Llorca,32,URU,"Montevideo, URU",15 Oct 22 - 16 Oct 22
+456,12.36,(NWI),Adrien Didier,31,FRA,"Montereau Fault Yonne, FRA",7 May 22
+456,12.36,(+1.4),Thomas Colantonio,31,FRA,"Maisons Alfort, FRA",10 Apr 22
+456,12.36,(0.4),Oscar Bradley,31,AUS,"Barden Ridge, AU-NS, AUS",5 Mar 22
+456,12.36,(+0.1),Christopher Adelaide-Beaubrun,30,FRA,"Ivry Sur Seine, FRA",29 May 22
+462,12.37,(-1.2 ),Rodrigo Perez Mendez,33,BOL,"Bogotá, COL",20 Nov 22 - 27 Nov 22
+462,12.37,(-0.4),Szymon Krzyżanowski,32,POL,"Poznań, POL",21 May 22
+462,12.37,(NWI),Hunter Charneski,31,USA,"Olivet, MI, USA",11 Jun 22
+462,12.37,(NWI),Darius Ray,31,USA,"Billings, MT, USA",15 Jul 22 - 17 Jul 22
+462,12.37,"(–2,2)",Pasi Linjamäki,30,FIN,"Seinäjoki, FIN",22 Jun 22
+467,12.38,(-0.1),Pierre Gendron,32,FRA,"Les Herbiers, FRA",28 May 22 - 29 May 22
+467,12.38,(-1.9 ),Cj Stowers,32,NZL,"Wellington, NZL",2 Dec 22 - 4 Dec 22
+467,12.38,(-3.4 ),Gulab Singh,32,NZL,"Auckland, NZL",19 Mar 22
+467,12.38,(-1.2),Brice Toudic,31,FRA,"Pessac, FRA",30 Apr 22
+471,12.39,(NWI),Gustavo Ernesto Valenzuela B,31,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+471,12.39,(+1.2),Antoine Cantais,31,FRA,"Lormont, FRA",25 May 22
+473,12.41,(NWI),Lamar Moore,33,USA,"New York, NY, USA",12 Jun 22
+473,12.41,(0.9 ),Takahiko Kato,31,JPN,"Kariya, JPN",21 Aug 22
+473,12.41,(-0.5),Terry Price,30,AUS,"Cannington, AU-WA, AUS",27 Feb 22 - 13 Mar 22
+476,12.42,(+2.2),Mariusz Wilk,32,POL,"Poznań, POL",21 May 22
+476,12.42,(0.0),Leon Brendel,30,GER,"Landquart, SUI",20 Aug 22 - 21 Aug 22
+478,12.43,(-1.4 ),Christian Seifferth,31,GER,"Mahlow, GER",2 Sep 22 - 5 Sep 22
+479,12.44,(NWI),Malcolm Davis,33,USA,"Olivet, MI, USA",11 Jun 22
+479,12.44,(2.0 ),Steven Paris,32,FRA,"Reims, FRA",1 May 22
+479,12.44,(-1),Daniel Gray,31,AUS,"Nathan, AU-QL, AUS",19 Feb 22
+482,12.46,(-0.4),Anthony Francq,32,FRA,"Laval, FRA",11 Jun 22 - 12 Jun 22
+483,12.47,(-0.6 ),Jason Eusebio Stewart Cordero,34,CRC,"San José, CRC",17 Sep 22 - 18 Sep 22
+484,12.48,(-2.4 ),Gary Oscar Serrate Krings,30,BOL,"Arica, CHI",25 Aug 22 - 27 Aug 22
+485,12.49,(+1.9),Damien Mith,33,FRA,"Merignac, FRA",9 Apr 22
+485,12.49,(+0.4),Christopher Olivier,33,FRA,"Plaisir, FRA",13 May 22
+485,12.49,(2.0 ),Georges-Ryan Abi-Sleiman,31,FRA,"Aulnay sous Bois, FRA",28 May 22 - 29 May 22
+488,12.50,(+0.0),Mathieu Lajarille,33,FRA,"Maisons Alfort, FRA",22 May 22
+488,12.50,(1.3),Manuel Sanna,31,SUI,"Biasca, SUI",2 Jul 22
+488,12.50,(-1.0 ),Joshua Pickthall,30,AUS,"Bendigo, AU-VI, AUS",5 Feb 22
+491,12.51,(-0.1 ),Jairemir Jaraba Salazar,34,COL,"Bogotá, COL",20 Nov 22 - 27 Nov 22
+491,12.51,(0.0),Kamil Skrzypczak,31,POL,"Bełchatów, POL",5 Jun 22
+493,12.52,(-0.6 ),Eduardo Bejarano Herrera,33,CRC,"San José, CRC",17 Sep 22 - 18 Sep 22
+494,12.54,(1.2),Miles Kerr,30,AUS,"Townsville, AU-QL, AUS",23 Sep 22 - 25 Sep 22
+495,12.55,(+0.5),Wenceslas Vincent,33,FRA,"Haguenau, FRA",8 May 22
+495,12.55,(NWI),Philipp Engeler,33,SUI,"Uster, SUI",1 Oct 22 - 2 Oct 22
+495,12.55,(-0.9 ),Matias Garcia,30,URU,"Montevideo, URU",15 Oct 22 - 16 Oct 22
+495,12.55,(3.1 ),Robert Kvaternik,30,AUS,"Geelong, AU-VI, AUS",3 Dec 22
+499,12.56,(1.4 ),Yu Tang,34,AUS,"Albert Park, AU-VI, AUS",19 Mar 22 - 20 Mar 22
+499,12.56,(+0.6),Clement Richard,34,FRA,"Nimes, FRA",16 Apr 22 - 17 Apr 22
+499,12.56,(-1.0 ),Justin Conlon,31,CAN,"Arva, ON, CAN",18 Jul 22
+502,12.57,(NWI),William Colon,31,USA,"New Britain, CT, USA",9 Jul 22
+503,12.58,(1.6 ),Maxime Cointepas,30,FRA,"Aulnay sous Bois, FRA",28 May 22 - 29 May 22
+504,12.59,(-1.7),Jens Gerrild,32,DEN,"Greve, DEN",8 Jun 22
+504,12.59,(3.2 ),Ezequiel Corti,31,ARG,"San Luis, ARG",29 Sep 22 - 2 Oct 22
+506,12.60,( ),Gilberto Gomes da Rocha,33,BRA,"Bragança Paulista, BRA",5 Nov 22 - 6 Nov 22
+507,12.61,(NWI),Bryan Ten Bosch,32,USA,"Den Haag, NED",23 Jul 22 - 28 Jul 22
+507,12.61,(-0.2 ),Daniel Pek,30,POL,"Chorzów, POL",6 Aug 22
+509,12.62,(0.4 ),Jing Yen Chooi,32,SIN,"Singapore, SIN",4 Jun 22 - 5 Jun 22
+509,12.62,(+0.5),Thibaud Grisolet,32,FRA,"Caen, FRA",21 May 22
+511,12.63,(NWI),Max Huckstepp,30,USA,"San Rafael, CA, USA",13 Sep 22
+511,12.63,(NWI),John Cartier,30,USA,"Lincoln, NE, USA",16 Jul 22
+513,12.64,(+1.2),Jeremy Chapalain,33,FRA,"Saint Renan, FRA",8 May 22
+513,12.64,(+4.4),Francis Rouge,33,FRA,"Millau, FRA",26 Mar 22
+515,12.65,(NWI),Lorenzo Antonio Oyervidez R,34,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+515,12.65,(-0.4),Michael Nguyen,31,FRA,"Boulogne Billancourt, FRA",18 Jun 22
+517,12.66,(+1.1),Nabil Benaldjia,34,FRA,"LA Garde, FRA",7 May 22
+517,12.66,(0.9 ),Kouji Nishikura,31,JPN,"Kariya, JPN",21 Aug 22
+519,12.69,(+3.7),Richard Forel,32,FRA,"Cognac, FRA",24 Jun 22
+519,12.69,(-0.1),Philip Woloszynski,31,DEN,"Frederiksberg, DEN",23 Aug 22
+519,12.69,(-1.4 ),Oliver Grosenick,30,GER,"Mahlow, GER",2 Sep 22 - 5 Sep 22
+522,12.70,(NWI),Michael Parada,31,USA,"Hightstown, NJ, USA",11 Jun 22 - 12 Jun 22
+522,12.70,(NWI),Marco Antonio Mariño M,31,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+524,12.72,(NWI),Rj Suttles,33,USA,"Topeka, KS, USA",8 Jul 22 - 9 Jul 22
+525,12.73,(+2.2),Kieren James-Lubin,32,USA,"Ft Lauderdale, FL, USA",5 Feb 22
+526,12.74,(+2.1),Gael Icher,33,FRA,"Besancon, FRA",28 May 22 - 29 May 22
+526,12.74,(-3.2 ),Jevon Ellis,31,CAN,"Toronto, ON, CAN",6 Aug 22 - 7 Aug 22
+528,12.75,(NWI),Ossiel Isai Yañez S,34,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+528,12.75,(-1.2 ),Luis Palacio Palacio,34,COL,"Bogotá, COL",20 Nov 22 - 27 Nov 22
+530,12.76,(NWI),Charles Ferguson Ii,33,USA,"Lynchburg, VA, USA",24 Jul 22
+530,12.76,(0.2),Wren Rudolph,31,USA,"Alexandria, VA, USA",3 Sep 22 - 4 Sep 22
+532,12.78,(-0.1),Daniel Piper,32,USA,"Landover, MD, USA",12 Jun 22
+532,12.78,(0.4 ),Shane Malone,32,SIN,"Singapore, SIN",4 Jun 22 - 5 Jun 22
+534,12.79,(0.9 ),Ya Yonggong Ryo,31,JPN,"Kariya, JPN",21 Aug 22
+535,12.81,(NWI),Braeton Monk,32,USA,"Topeka, KS, USA",8 Jul 22 - 9 Jul 22
+535,12.81,(0.4 ),Hong Yiap Lee,32,SIN,"Singapore, SIN",4 Jun 22 - 5 Jun 22
+535,12.81,(0.9 ),Hidetsugu Kasahara,31,JPN,"Kariya, JPN",21 Aug 22
+538,12.83,(-1.5 ),Juan Valenzuela Valenzuela,34,CHI,"Bogotá, COL",20 Nov 22 - 27 Nov 22
+538,12.83,(-0.5 ),David Vogier,34,FRA,"Chalon-sur-Saone, FRA",1 Oct 22 - 2 Oct 22
+540,12.84,(1.4 ),Gurinder Dhaliwal,34,AUS,"Albert Park, AU-VI, AUS",19 Mar 22 - 20 Mar 22
+540,12.84,(NWI),Peter Rogers,30,USA,"Topeka, KS, USA",8 Jul 22 - 9 Jul 22
+542,12.86,(0.1 ),Anthony Monduc,30,FRA,"Dole, FRA",11 Jun 22
+543,12.87,(0.5 ),Rafael Salgado de Moraes,34,BRA,"Florianópolis, BRA",9 Sep 22 - 11 Sep 22
+543,12.87,(+0.8),Antoine Gonzalez,31,FRA,"Auch, FRA",18 Jun 22 - 19 Jun 22
+545,12.88,(NWI),Salathiel Arguelles D,34,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+546,12.90,(1.0 ),Jun Qiang Leo Ng,31,SIN,"Singapore, SIN",29 Oct 22 - 30 Oct 22
+547,12.92,(+2.5),Fabien Giudicelli,33,FRA,"Villejuif, FRA",30 Apr 22
+547,12.92,(+1.2),Omar Sissoko,32,FRA,"Marmande, FRA",8 Jul 22 - 9 Jul 22
+549,12.93,(1.6 ),Matthieu Boissy,32,FRA,"Aulnay sous Bois, FRA",28 May 22 - 29 May 22
+550,12.95,(+0.0),David Blais,34,FRA,"Antony, FRA",28 May 22
+550,12.95,(-3.2),Alban Delaunay,31,FRA,"Libourne, FRA",22 May 22
+550,12.95,(0.0 ),Takashi Nakajima,30,JPN,"Hirosaki, JPN",19 Sep 22
+553,12.96,(NWI),Hans Osaretin Osahon P,31,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+554,12.98,(-0.2),Hugo-Farid Bouallal,33,FRA,"Tassin LA Demi Lune, FRA",24 Jun 22
+555,12.99,(-2.4),Adrien Clair,33,FRA,"Saint Florentin, FRA",8 May 22
+555,12.99,"(–3,1)",Henrik Enke,32,FIN,"Posio, FIN",24 Jun 22
+555,12.99,(1.6 ),Tim Ongena,31,BEL,"Mechelen, BEL",21 Aug 22
+558,13.00,(NWI),David Jarjoura,32,USA,"Atlanta, GA, USA",9 Apr 22
+559,13.01,(0.5 ),Lucas AndrÉ Ferrari,32,BRA,"Florianópolis, BRA",9 Sep 22 - 11 Sep 22
+560,13.06,(+0.3),Jonas Lajarge,31,FRA,"Avignon, FRA",22 May 22
+561,13.09,(-2.4 ),Vignir Gunnarsson,30,ISL,"Sauðárkrókur, ISL",27 Aug 22 - 28 Aug 22
+562,13.11,(-0.5),Oliver Berry,32,AUS,"Cannington, AU-WA, AUS",27 Feb 22 - 13 Mar 22
+562,13.11,(NWI),Maxime Ardellier,30,FRA,"Sens, FRA",15 Oct 22
+564,13.12,(-2.2 ),Filippo Buso,32,ITA,"Montebelluna, ITA",13 Jul 22
+564,13.12,(+1.4),Sebastien Pioso,31,FRA,"Bernay, FRA",7 May 22
+564,13.12,(0.8 ),José Jeanderson Dos Santos Souza,30,BRA,"Florianópolis/SC, BRA",16 Jul 22
+567,13.13,(NWI),Patrick Ranger,30,GER,"Pirna, GER",28 Aug 22
+568,13.16,( ),Gustavo Henrique de Moura,32,BRA,"Bragança Paulista, BRA",5 Nov 22 - 6 Nov 22
+568,13.16,"(-1,5)",Trygve Havro,30,NOR,"Fana, NOR",8 Jun 22
+570,13.22,(-0.4 ),Simone Marin,34,ITA,"Montebelluna, ITA",13 Jul 22
+570,13.22,(NWI),Matthew Dean,33,AUS,"Cannington, AU-WA, AUS",29 Dec 22
+570,13.22,(0.7 ),Andreas Reichert,31,GER,"Dillingen, GER",16 Jul 22
+573,13.24,(-0.6),Travis Burton,32,USA,"San Diego, CA, USA",11 Jun 22
+573,13.24,(-1.4 ),Cédéric Steiner,30,SUI,"Alle, SUI",2 Jul 22
+575,13.25,(-0.8),Georges Castel,32,FRA,"Saint Denis, FRA",26 Feb 22
+576,13.26,(-0.2),Yassine Tissafi,32,FRA,"Halluin, FRA",29 Jun 22
+576,13.26,(-3.7),Sebastien Babielle,32,FRA,"Saint Florentin, FRA",22 May 22
+578,13.27,(1.1),Theodore Steenkamp,33,RSA,"Parow, Cape Town, WC, RSA",4 Apr 22
+578,13.27,(NWI),Dirk Dworatzek,30,GER,"Pirna, GER",28 Aug 22
+580,13.28,"(+0,5)",Kjetil Stokke,31,NOR,"Osterøy, NOR",22 Aug 22
+581,13.31,(+4.3),Yasir Mustafa,32,BAN,"Grenoble, FRA",18 Jun 22
+581,13.31,(1.3 ),Jean-Remy Hemedi,30,FRA,"Aulnay sous Bois, FRA",28 May 22 - 29 May 22
+583,13.36,"(–0,3)",Atte Mustalahti,32,FIN,"Tampere, FIN",6 Jun 22
+583,13.36,(-5.9),Tre Houston,32,BER,"Devonshire, BER",9 Apr 22
+583,13.36,(-1.1),Artyom Goncharuk,30,RUS,"Cheboksary, RUS",2 Aug 22 - 5 Aug 22
+586,13.37,(NWI),Miguel Angel Loya B,34,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+587,13.38,(NWI),Ron Covington,30,USA,"Madison, WI, USA",23 Jul 22
+588,13.43,(1.0 ),Youssouf Sakho,31,FRA,"Reims, FRA",1 May 22
+589,13.44,(NWI),Matthew Dunn,34,USA,"Ames, IA, USA",30 Jul 22 - 31 Jul 22
+590,13.45,"(–0,3)",Lauri Timonen,34,FIN,"Tampere, FIN",6 Jun 22
+591,13.46,(+0.0),Yvan Gonzales,31,FRA,"Calais, FRA",22 May 22
+592,13.47,(NWI),Ben Steyn,34,RSA,"Germiston, G, RSA",16 Apr 22
+593,13.48,(NWI),Richard Leclerc,32,FRA,"Lens, FRA",22 May 22
+594,13.49,(1.0),Sadudin Bajrami,31,MKD,"Olten, SUI",5 Jul 22
+595,13.57,(+0.2),Benjamin Deneaux,34,FRA,"Nogent Sur Marne, FRA",23 Jun 22
+596,13.58,(-0.5),Kevin Garbay,34,FRA,"Toulouse, FRA",11 May 22
+596,13.58,(NWI),Eduardo Alberto Navarrete C,34,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+598,13.65,(NWI),Jonas Helgesen Sæther,33,NOR,"Stjørdal, NOR",10 Jul 22
+599,13.66,(0.4 ),Stephen Rozniatowski,31,CAN,"Sherwood Park, AB, CAN",22 Jul 22 - 24 Jul 22
+600,13.67,( ),Alexander Engel,30,GER,"Löwenberg, GER",10 Sep 22 - 11 Sep 22
+601,13.69,(+2.3),Anthony Leroy,31,FRA,"Meru, FRA",12 Jun 22
+602,13.71,(1.1 ),Tom Burrows,32,AUS,"Brisbane, AU-QL, AUS",29 Oct 22
+603,13.74,(+1.5),Thibault Allegre,31,FRA,"Auch, FRA",18 Jun 22 - 19 Jun 22
+604,13.83,(0.2),Joshua Poindexter,31,USA,"Lancaster, TX, USA",18 Jun 22
+605,13.85,(NWI),Gerardo Anzaldua R,30,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+606,13.89,(-1.6),Henry Graham,30,AUS,"Canberra, AU-AC, AUS",10 Mar 22
+607,13.90,(0.2 ),Jorge Verdejo Olabe,34,CHI,"Valdivia, CHI",19 Feb 22
+608,13.95,(+0.4),Nitharsan Santhiran,33,FRA,"Savigny Sur Orge, FRA",8 May 22
+609,13.97,(+0.3),Florian Collet,32,FRA,"Libourne, FRA",8 May 22
+609,13.97,(-0.5),Timo Hakala,30,FIN,"Ylivieska, FIN",4 Jul 22
+611,14.00,(NWI),Jairo Manzanillo Martínez,34,DOM,"San José, CRC",3 Nov 22 - 6 Nov 22
+612,14.01,(NWI),Peter Lindstrom,34,USA,"Plymouth, MN, USA",21 Jun 22
+613,14.05,"(–1,6)",Teemu Ruippo,32,FIN,"Joensuu, FIN",18 Jun 22
+614,14.06,(0.4 ),Noel Augu Longue,31,SIN,"Singapore, SIN",4 Jun 22 - 5 Jun 22
+615,14.14,(+0.4),Mathias Mc Douglas Fabricus,34,FRA,"Fort de France, FRA",4 Jun 22
+616,14.27,(NWI),Andy Mills,31,USA,"Ames, IA, USA",30 Jul 22 - 31 Jul 22
+617,14.29,(+0.4),Mathias Jeanne Rose,34,FRA,"Fort de France, FRA",4 Jun 22
+618,14.35,( ),Ugulino Souza da Silva,33,BRA,"Bragança Paulista, BRA",5 Nov 22 - 6 Nov 22
+619,14.43,(+0.2),Valentin Bodet,31,FRA,"Le Touquet Paris Plage, FRA",8 May 22
+620,14.44,(+0.2),Viktor Volkov,33,POL,"Sieradz, POL",12 Jun 22
+621,14.53,(-1.3),Massinissa Boussefsaf,34,FRA,"Beauvais, FRA",25 Jun 22
+622,14.54,(NWI),David Gomez,34,USA,"Sun Prairie, WI, USA",7 Jul 22
+623,14.59,(-0.1),Jean-Noel Ascencio,31,FRA,"Halluin, FRA",29 Jun 22
+624,14.60,(-0.1 ),Jussi Saarela,34,FIN,"Orivesi, FIN",11 Jun 22
+625,14.61,(+0.0),Roger Vicente Oyono Mengue,31,FRA,"Cormeilles En Parisis, FRA",14 May 22 - 15 May 22
+626,14.62,(NWI),Adan Gerardo Peraza U,33,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+627,14.72,(NWI),Artaches Kherounts,34,ARM,"Lens, FRA",22 May 22
+628,14.95,(NWI),Edward Tookes,31,USA,"Lynchburg, VA, USA",24 Jul 22
+629,15.16,(+1.1),Pierre-Olivier Foegtlin,33,FRA,"Marmande, FRA",8 Jul 22 - 9 Jul 22
+629,15.16,(NWI),Stenson Jean Baptiste,33,USA,"New Britain, CT, USA",9 Jul 22
+631,15.17,(1.4 ),Andrew Close,32,AUS,"Albert Park, AU-VI, AUS",19 Mar 22 - 20 Mar 22
+632,15.24,(-0.3),Romain Rica,34,FRA,"Caen, FRA",21 May 22
+632,15.24,(-0.9 ),Mathias Ledesma,32,URU,"Montevideo, URU",15 Oct 22 - 16 Oct 22
+634,15.25,(+1.1),Olivier Jard,34,FRA,"Marmande, FRA",8 Jul 22 - 9 Jul 22
+635,15.33,(NWI),Manuel Pitts,34,USA,"Lisle, IL, USA",11 Jun 22 - 12 Jun 22
+636,15.34,(NWI),Carlos Isarel Martínez S,31,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+637,15.38,(NWI),Miguel Angel Aguilar C,31,MEX,"Mérida, MEX",4 May 22 - 8 May 22
+638,15.53,(NWI),Humberto Tellez,32,USA,"Lisle, IL, USA",11 Jun 22 - 12 Jun 22
+639,15.66,(0.9 ),Blaze Veljovski,34,USA,"Rochester, NY, USA",25 Jun 22
+640,15.75,(+0.5),Charles Henry,33,FRA,"Le Lorrain, FRA",14 May 22
+641,15.86,( ),Itamar Cardoso Dos Santo,30,BRA,"Bragança Paulista, BRA",5 Nov 22 - 6 Nov 22
+642,16.09,(+0.0),Aurelien Nicoly,31,FRA,"Brest, FRA",30 Apr 22
+643,16.11,(-0.5),Roger Prugnieres,31,FRA,"Saint Andre, FRA",30 Apr 22
+644,16.53,(+0.5),Jean-Sebastien Astolfi,33,FRA,"Auch, FRA",18 Jun 22 - 19 Jun 22
+645,17.02,(NWI),Mohamed Dabbeche,32,FRA,"Romans Sur Isere, FRA",21 Jun 22
+646,17.10,(+1.4),Mateusz Mazur,32,POL,"Szczecin, POL",17 Jun 22 - 19 Jun 22
+647,17.52,(+1.2),Anthony Heriveau,33,FRA,"Marmande, FRA",8 Jul 22 - 9 Jul 22
+648,17.78,(-0.2),Jordan Correia-Bonnet,32,FRA,"Montpellier, FRA",11 Jun 22
+649,18.10,(+2.3),Martin Schwing,32,FRA,"Meru, FRA",12 Jun 22
+650,18.73,"(-3,1)",Håvard Oppen,34,NOR,"Midsund, NOR",26 May 22
+651,18.94,(NWI),Juan Chavez,34,USA,"Lisle, IL, USA",11 Jun 22 - 12 Jun 22
+652,19.78,(+0.6),Christophe Lacomme,33,FRA,"Marmande, FRA",8 Jul 22 - 9 Jul 22
+653,21.96,( ),Luca Bugada,34,ITA,"Brescia, ITA",27 Sep 22
+654,25.68,(NWI ),Shawn Brubaker,30,USA,"Alexandria, VA, USA",13 Aug 22
+655,30.85,(0.6 ),Bobby Tagget,32,AUS,"Adelaide, AU-SA, AUS",18 Feb 22 - 20 Feb 22
+656,34.09,(0.5 ),Geovane Peres,34,BRA,"Florianópolis, BRA",9 Sep 22 - 11 Sep 22

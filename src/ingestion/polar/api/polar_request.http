@@ -1,0 +1,24 @@
+### Users > Get User Information
+GET {{host}}/v3/users/{{user_id}}
+Accept: application/json
+Authorization: Bearer {{access_token}}
+
+### Pull notification, list new activity data
+GET {{host}}/v3/notifications
+Accept: application/json
+Authorization: Basic {{encoded_credentials}}
+
+### List exercises
+GET {{host}}/v3/exercises
+Accept: application/json
+Authorization: Bearer {{access_token}}
+
+### Physical Info > List physical infos
+GET {{host}}/v3/users/{{user_id}}/physical-information-transactions/{transaction-id}
+Accept: application/json
+Authorization: Bearer {{access_token}}
+
+### Get exercise
+GET {{host}}/v3/exercises/{{exercise_id}}
+Accept: application/json
+Authorization: Bearer {{access_token}}
