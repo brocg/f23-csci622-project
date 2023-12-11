@@ -7,6 +7,8 @@
 # Getting Started
 This repo contains all files used to create the dashboard. See SupplementaryInfo directory for the PowerBI file. See the "CSCI 622 - Project Recap Brock.pdf" for a good overview of steps involved to create this.
 
+Datsource files are stored in Azure Blob service. Some data is semi-sensitive, so need to scrub before providing public access. You can view the dashboard online, though.
+
 ## View Dashboard Online
 1. Visit https://brocg.github.io/athlete-performance-dashboard
 2. If prompted for login, use @ndus.edu credentials (might require agreeing to prompt for free trial)
