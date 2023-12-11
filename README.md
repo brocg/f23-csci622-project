@@ -5,17 +5,24 @@
 - The Athlete Performance Dashboard aims to help individuals improve their athletic performance by making data-driven decisions, staying motivated, and maintaining a holistic approach to training and well-being.
 
 # Getting Started
-This repo contains all files used to create the dashboard. See SupplementaryInfo directory for the PowerBI file. See the "CSCI 622 - Project Recap Brock.pdf" for a good overview of steps involved to create this.
-
-Datsource files are stored in Azure Blob service. Some data is semi-sensitive, so need to scrub before providing public access. You can view the dashboard online, though.
+This repo contains all files used to create the dashboard. See SupplementaryInfo directory for the PowerBI file and 3 datasets (HevyWorkouts, FitbitSleepLog, PolarExercises). See the "CSCI 622 - Project Recap Brock.pdf" for a good overview of what steps were involved in designing this dashboard.
 
 ## View Dashboard Online
-1. Visit https://brocg.github.io/athlete-performance-dashboard
-2. If prompted for login, use @ndus.edu credentials (might require agreeing to prompt for free trial)
+1. Visit https://brocg.github.io/athlete-performance-dashboard (works best in Chrome/Edge)
+2. If prompted for login, use @ndus.edu credentials (might require agreeing to a prompt for free trial)
 
 ## View Dashboard Locally (using PowerBI)
+If you're interested an offline local setup in PowerBI, follow these steps.
+
+I'm currently hosting the data on Azure container as publically accessible so you shouldn't need any access token for this to work. 
+
 1. Download [PowerBI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 2. Open "HevyWorkoutsBI.pbix" file ([download here](https://drive.google.com/file/d/1MkpzdAuhd_52cgjENi1LC1JIHep5rx-5/view?usp=sharing), also in this repo)
+3. Ensure the 3 datasource files are pulling from this Azure Blob Service (https://samplestorepowerbi.blob.core.windows.net/f23-proj/). You can verify the container address by going to File > Options and Settings > Data Source Settings
+4. Click "Refresh" on Ribbon, all data should load in : )
+
+For further customization, I recommend using the 3 files in "SupplementaryInfo/PowerBI/raw-datafiles" as your data sources (so it doesn't rely on the Azure Blob container). Then you have complete control to edit things as you see fit. It'll require rejoining the three tables, and a few other tweaks, but should be doable.
+
 
 # Project Overview / Motivation for Developing
 
@@ -52,7 +59,7 @@ Improving vertical jump height requires a combination of strength training, plyo
     - **Using multiple hardware devices/subscriptions becomes expensive**
       - Owning and maintaining various hardware devices and subscribing to multiple fitness apps can be costly. In general, the goal is to get the most value out of the hardware devices and spend the least amount of money as possible. 
     - **Limited access to historical data**
-      - As an athlete it's valuable to see trends over days, weeks, months, and even years. Howevever, over the years the hardware devices and subscriptions change, resulting in data that's lost or unrecoverable. 
+      - As an athlete it's valuable to see trends over days, weeks, months, and even years. However, over the years the hardware devices and subscriptions change, resulting in data that's lost or unrecoverable. 
   
 - Ideally a solution should be provided to see ALL your previous data, regardless of the data source. 
     
@@ -72,7 +79,7 @@ Improving vertical jump height requires a combination of strength training, plyo
       - etc.
 
 ## Ingestion
-Each inegstion file pulls from it's respective API, saves the response, then uploads to ADLS. 
+Each ingestion file pulls from it's respective API, saves the response, then uploads to ADLS. 
 
 Files used for ingestion:
 - ingest_fitbit.py
@@ -83,18 +90,24 @@ Files used for ingestion:
 
 ## Transformation
 
-After data is ingested, it's verified using Azure Data Bricks (ADB). This requires spinning up a cluster (~5 minute process). ADB is used to useful to see shape/structure using Pyspark. This is a manual process, but good for making sure as data changes (i.e. REST APIs of Fitbit, Hevy, and Polar evolve) it will show what's going on.
+After data is ingested, it's verified using Azure Data Bricks (ADB). This requires spinning up a cluster (~5 minute process). ADB is used to useful to see shape/structure using Pyspark. 
+
+![Verifying structure of data with ADB](/SupplementaryInfo/screenshots/azure-data-bricks-verifying-data.png)
+
+This is a manual process, but good for making sure as data changes (i.e. REST APIs of Fitbit, Hevy, and Polar evolve) it will show what's going on.
 
 Then the majority of data transformations take place within PowerBI. There are 3 files pulled into PowerBI through connecting to the Azure Blob storage account.
 1. PolarHR
 2. HevyWorkouts
-3. FitBitSleepLog
+3. FitbitSleepLog
 
 The data model in PowerBI is simple. One table for each file.
 ![Data Model Power BI](/SupplementaryInfo/screenshots/data-model-powerBI.png)
 
 
-Each file goes through a series of data transformations, but all original data is kept intact. For example, FitbitSleep log is provided as JSON file, and using PowerBI transform into a .csv file, and then add an additional column named "total_hours_sleep" to get hours slept each night in hours (e.g. 8.2).
+Each file goes through a series of data transformations, but all original data is kept intact. For example, FitbitSleep log is provided as JSON file, and using PowerBI transform into a .csv file, and then add an additional column named "total_hours_sleep" to get hours slept each night in hours (e.g. 8.3).
+
+![Data Model Power BI](/SupplementaryInfo/screenshots/example-data-transformation-total-hours-sleep.png)
 
 ## Serving
 
@@ -171,6 +184,7 @@ The 2 Python visuals both rely on custom code for generating the graphs. In the 
   - [Hevy](https://hevy.com/) - iOS/Android app, Workout Tracker & Planner Gym Weight Lifting
     - Data can be exported as .csv file via the app or website
     - Testing with experimental API access (https://api.hevyapp.com/)
+
   - [Polar H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor/) - heart rate sensor, well known for its accuracy.
     - [Polar Accesslink API v3](https://www.polar.com/accesslink-api/#polar-accesslink-api)
       - Antropometrics
