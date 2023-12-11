@@ -4,7 +4,21 @@
 
 - The Athlete Performance Dashboard aims to help individuals improve their athletic performance by making data-driven decisions, staying motivated, and maintaining a holistic approach to training and well-being.
 
+# Getting Started
+This repo contains all files used to create the dashboard. See SupplementaryInfo directory for the PowerBI file. See the "CSCI 622 - Project Recap Brock.pdf" for a good overview of steps involved to create this.
+
+## View Dashboard Online
+1. Visit https://brocg.github.io/athlete-performance-dashboard
+2. If prompted for login, use @ndus.edu credentials (might require agreeing to prompt for free trial)
+
+## View Dashboard Locally (using PowerBI)
+1. Download [PowerBI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
+2. Open "HevyWorkoutsBI.pbix" file ([download here](https://drive.google.com/file/d/1MkpzdAuhd_52cgjENi1LC1JIHep5rx-5/view?usp=sharing), also in this repo)
+
+# Project Overview / Motivation for Developing
+
 ## 2 Primary Athletic Goals
+![Run Faster Jump Higher](/SupplementaryInfo/screenshots/run-faster-jump-higher.png)
 
 1. Jump Higher, measuring standing vertical leap (using a [vertec](https://www.power-systems.com/shop/product/vertec#lg=1&slide=2))
     - Target: 33"
@@ -67,7 +81,34 @@ Files used for ingestion:
 
 ## Transformation
 
+After data is ingested, it's verified using Azure Data Bricks (ADB). This requires spinning up a cluster (~5 minute process). ADB is used to useful to see shape/structure using Pyspark. This is a manual process, but good for making sure as data changes (i.e. REST APIs of Fitbit, Hevy, and Polar evolve) it will show what's going on.
+
+Then the majority of data transformations take place within PowerBI. There are 3 files pulled into PowerBI through connecting to the Azure Blob storage account.
+1. PolarHR
+2. HevyWorkouts
+3. FitBitSleepLog
+
+The data model in PowerBI is simple. One table for each file.
+![Data Model Power BI](/SupplementaryInfo/screenshots/data-model-powerBI.png)
+
+
+Each file goes through a series of data transformations, but all original data is kept intact. For example, FitbitSleep log is provided as JSON file, and using PowerBI transform into a .csv file, and then add an additional column named "total_hours_sleep" to get hours slept each night in hours (e.g. 8.2).
+
 ## Serving
+
+All visuals served through PowerBI. Dashboard is made of 6 key components
+
+![Components of BI Dashboard](/SupplementaryInfo/screenshots/components-of-powerbi-dashboard.png)
+
+1. Trainining Session Date (Slicer)
+2. Training Session Calendar ([Calendar Visual by MAQ Software](https://maqsoftware.com/resources/Power-BI-custom-visuals/Calendar) - PowerBI Certified)
+3. Polar H10 Heart Rate Data (Matrix)
+4. Heart Rate Training Zones 1-5 (Python visual)
+5. Fitbit Sleep Log Data (Card)
+6. Sleep Efficiency (Python Visual)
+
+The 2 Python visuals both rely on custom code for generating the graphs. In the online view, this takes a few seconds to load in. This could be optimized, but does a nice job showing the gist of what the visuals are after. More green dots in Zone 3 = better for higher intensity training. And more blue for sleep = higher sleep effiency. Python was used for complete customization of the labels (to see specifically hours of sleep and bpm).
+
 
 ## Data Sources
 
@@ -96,7 +137,7 @@ Files used for ingestion:
 
 - The Fitbit Web API is free and works with any fitbit wearable. As of 2023, there's 25+ fitbit trackers supported by Google.
 
-![Fitbit devices](<fitbit trackers.PNG>)
+![Fitbit devices](/SupplementaryInfo/screenshots/fitbit-trackers.png)
 
 ### Fitbit Web API Explorer
 - The [Fitbit Web API Explorer](https://dev.fitbit.com/build/reference/web-api/explore/), built using Swagger UI, is used for testing the Web API endpoints against a Fitbit user's personal data.
