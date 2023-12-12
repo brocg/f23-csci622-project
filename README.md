@@ -133,14 +133,18 @@ All visuals served through PowerBI. Dashboard is made of 6 key components:
 
 *The 2 Python visuals both rely on custom code for generating the graphs. In the online view, this takes a few seconds to load in. This could be optimized, but does a nice job showing the gist of what the visuals are after. Python was used in these visuals to have control and complete customization of the labels (labels show specifi bpm and total hours of sleep rounded to nearest tenth).
 
-### Two key takeaways from visuals
+### Key takeaways from visuals
 Heart Rate Training Zones
-- **More green dots in Zone 3 = better for higher intensity training.**
-At a glance I can see what the overall training intensity of a workout is. For example, if bmp is averaging below 114bpm, then I know that's Zone 1, light intensity. Not bad per say, but it's important that when looking at an aggregated view of workouts, some of them are landing an average heart rate in Zones 2 and 3.
+> ![Heart Rate Training Zones](/SupplementaryInfo/screenshots/heart-rate-training-zones-all-training-sessions.png), ![Heart Rate Training Zones](/SupplementaryInfo/screenshots/heart-rate-training-individual-session-zone2.png)
+- **More green dots in Zones 2/3 = better for higher intensity training.**
+At a glance I can see what the overall training intensity of a workout is. For example, if bmp is averaging below 114bpm (upperbound of Zone1), then I know it's relatively light intensity. Not bad per say, but it's important when viewing the aggregated view of workouts, there are training sessions landing in Zones 2 and 3.
 
 Sleep Efficiency Visual
-- **More blue bar for sleep = higher sleep effiency.**
-At a glance I can see how I slept the previous night on the day of that particular training session. While Fitbit provides it's own "sleep score", I prefer to use sleep efficiency simply as a calculation of time awake vs. time asleep. For example, if I slept 10.2 hours total
+> ![Sleep Efficiency](/SupplementaryInfo/screenshots/sleep-efficiency-high-total-hours-high.png), ![Sleep Efficiency](/SupplementaryInfo/screenshots/sleep-efficiency-high-total-hours-low.png)
+- **More blue for sleep = higher sleep effiency. Target > 8 hours total sleep.**
+At a glance I can see how I slept the previous night on the day of that particular training session. While Fitbit provides it's own "sleep score" (currently being used on this visual, number ranges from 1-100), I prefer to measure sleep efficiency simply as a calculation of time awake vs. time asleep. 
+
+For example, looking at when I slept 9.4 hours, with .9 hrs awake (9%), and 8.5 hours asleep (91%)...I'd simply call that 91% sleep efficiency. Fitbit takes more factors into account. Also, worth pointing out that total hours of sleep duration should be factored in, too. Even moreso than time awake vs. time asleep. 9.4 hours vs. 4.8 hours is a major difference.
 
 ## Data Sources
 
