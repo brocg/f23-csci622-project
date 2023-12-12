@@ -6,7 +6,7 @@
 ## How to Interact With the Dashboard
 - Open the dashboard here: https://brocg.github.io/athlete-performance-dashboard (login with @ndus.edu creds)
 
-- Click on a day on the calendar. It will highlight the selected day, and display the corresponding metrics for heart rate training zone and sleep. The tooltip on the day shows workout notes.
+- **Click on a day on the calendar**. It will highlight the selected day, and display the corresponding metrics for heart rate training zone and sleep. The tooltip on the day shows workout notes.
 
 > ![Dashboard Demo Day Selection](/SupplementaryInfo/screenshots/dashboard-demo-day-selection.gif)
 
