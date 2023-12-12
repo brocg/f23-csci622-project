@@ -158,7 +158,7 @@ The 2 Python visuals both rely on custom code for generating the graphs. In the 
 
 - The Fitbit Web API is free and works with any fitbit wearable. As of 2023, there's 25+ fitbit trackers supported by Google.
 
-![Fitbit devices](/SupplementaryInfo/screenshots/fitbit-trackers.png)
+![Fitbit devices](/SupplementaryInfo/screenshots/fitbit-trackers-inspire-2.png)
 
 ### Fitbit Web API Explorer
 - The [Fitbit Web API Explorer](https://dev.fitbit.com/build/reference/web-api/explore/), built using Swagger UI, is used for testing the Web API endpoints against a Fitbit user's personal data.
