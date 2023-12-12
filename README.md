@@ -117,19 +117,30 @@ Each file goes through a series of data transformations, but all original data i
 
 ## Serving
 
-All visuals served through PowerBI. Dashboard is made of 6 key components
+All visuals served through PowerBI. Dashboard is made of 6 key components:
+
+| # | Name                         | PowerBI Visual Type                                          |
+|--------|------------------------------|-------------------------------------------------------------|
+| 1      | Training Session Date        | Slicer                                                       |
+| 2      | Training Session Calendar    | [Calendar Visual by MAQ Software](https://maqsoftware.com/resources/Power-BI-custom-visuals/Calendar) - PowerBI Certified |
+| 3      | Polar H10 Heart Rate Data    | Matrix                                                       |
+| 4      | Heart Rate Training Zones 1-5| *Python visual                                                |
+| 5      | Fitbit Sleep Log Data        | Card                                                         |
+| 6      | Sleep Efficiency             | *Python Visual                                                |
+
 
 ![Components of BI Dashboard](/SupplementaryInfo/screenshots/components-of-powerbi-dashboard.png)
 
-1. Trainining Session Date (Slicer)
-2. Training Session Calendar ([Calendar Visual by MAQ Software](https://maqsoftware.com/resources/Power-BI-custom-visuals/Calendar) - PowerBI Certified)
-3. Polar H10 Heart Rate Data (Matrix)
-4. Heart Rate Training Zones 1-5 (Python visual)
-5. Fitbit Sleep Log Data (Card)
-6. Sleep Efficiency (Python Visual)
+*The 2 Python visuals both rely on custom code for generating the graphs. In the online view, this takes a few seconds to load in. This could be optimized, but does a nice job showing the gist of what the visuals are after. Python was used in these visuals to have control and complete customization of the labels (labels show specifi bpm and total hours of sleep rounded to nearest tenth).
 
-The 2 Python visuals both rely on custom code for generating the graphs. In the online view, this takes a few seconds to load in. This could be optimized, but does a nice job showing the gist of what the visuals are after. More green dots in Zone 3 = better for higher intensity training. And more blue for sleep = higher sleep effiency. Python was used for complete customization of the labels (to see specifically hours of sleep and bpm).
+### Two key takeaways from visuals
+Heart Rate Training Zones
+- **More green dots in Zone 3 = better for higher intensity training.**
+At a glance I can see what the overall training intensity of a workout is. For example, if bmp is averaging below 114bpm, then I know that's Zone 1, light intensity. Not bad per say, but it's important that when looking at an aggregated view of workouts, some of them are landing an average heart rate in Zones 2 and 3.
 
+Sleep Efficiency Visual
+- **More blue bar for sleep = higher sleep effiency.**
+At a glance I can see how I slept the previous night on the day of that particular training session. While Fitbit provides it's own "sleep score", I prefer to use sleep efficiency simply as a calculation of time awake vs. time asleep. For example, if I slept 10.2 hours total
 
 ## Data Sources
 
