@@ -1,8 +1,14 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12440975&assignment_repo_type=AssignmentRepo)
 # CSCI 622 Project - Brock
 # Athlete Performance Dashboard
 
 - The Athlete Performance Dashboard aims to help individuals improve their athletic performance by making data-driven decisions, staying motivated, and maintaining a holistic approach to training and well-being.
+
+## How to Interact With the Dashboard
+- Open the dashboard here: https://brocg.github.io/athlete-performance-dashboard (login with @ndus.edu creds)
+
+- Click on a day on the calendar. It will highlight the selected day, and display the corresponding metrics for heart rate training zone and sleep. The tooltip on the day shows workout notes.
+
+> ![Dashboard Demo Day Selection](/SupplementaryInfo/screenshots/dashboard-demo-day-selection.gif)
 
 # Getting Started
 This repo contains all files used to create the dashboard. See SupplementaryInfo directory for the PowerBI file and 3 datasets (HevyWorkouts, FitbitSleepLog, PolarExercises). See the "CSCI 622 - Project Recap Brock.pdf" for a good overview of what steps were involved in designing this dashboard.
