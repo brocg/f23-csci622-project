@@ -129,7 +129,7 @@ All visuals served through PowerBI. Dashboard is made of 6 key components:
 | 6      | Sleep Efficiency             | *Python Visual                                                |
 
 
-![Components of BI Dashboard](/SupplementaryInfo/screenshots/components-of-powerbi-dashboard.png)
+![Components of BI Dashboard](/SupplementaryInfo/screenshots/components-of-dashboard-powerbi.png)
 
 *The 2 Python visuals both rely on custom code for generating the graphs. In the online view, this takes a few seconds to load in. This could be optimized, but does a nice job showing the gist of what the visuals are after. Python was used in these visuals to have control and complete customization of the labels (labels show specifi bpm and total hours of sleep rounded to nearest tenth).
 
