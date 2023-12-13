@@ -140,8 +140,8 @@ All visuals served through PowerBI. Dashboard is made of 6 key components:
 At a glance I can see what the overall training intensity of a workout is. For example, if bmp is averaging below 114bpm (upperbound of Zone1), then I know it's relatively light intensity. Not bad per say, but it's important when viewing the aggregated view of workouts, there are training sessions landing in Zones 2 and 3.
 
 ### Sleep Efficiency Visual
-> ![Sleep Efficiency](/SupplementaryInfo/screenshots/example-sleeping-efficiency-explained.png)
-- **More blue filling up the bar = higher sleep effiency. Target > 8 hours total sleep.**
+> ![Sleep Efficiency](/SupplementaryInfo/screenshots/example-explaining-sleep-visual.png)
+- **More blue filling up the bar = higher sleep efficiency. Target > 8 hours total sleep.**
 At a glance I can see how I slept the previous night on the day of that particular training session. 
 
 - **While Fitbit provides it's own "sleep score", I prefer my own metric on the label of the blue bar chart**. Looking at when I slept 9.4 hours, with .9 hrs awake (9%), and 8.5 hours asleep (91%)...I'd simply call that 91% sleep efficiency. Fitbit takes more factors into account, although I'm not sure what. I display Fitbit's sleep effiency score above the bar chart.
