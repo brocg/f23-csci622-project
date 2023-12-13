@@ -35,10 +35,10 @@ For further customization, I recommend using the 3 files in "SupplementaryInfo/P
 ## 2 Primary Athletic Goals
 ![Run Faster Jump Higher](/SupplementaryInfo/screenshots/run-faster-jump-higher.png)
 
-1. Jump Higher, measuring standing vertical leap (using a [vertec](https://www.power-systems.com/shop/product/vertec#lg=1&slide=2))
+1. **Jump Higher**, measuring standing vertical leap (using a [vertec](https://www.power-systems.com/shop/product/vertec#lg=1&slide=2))
     - Target: 33"
     - Current: 27.5"
-2. Run Faster, measuring sprint speed in 100M dash (using [handheld stopwatch](https://www.walmart.com/ip/Athletic-Works-Digital-Stopwatch-Black/984512262?athbdg=L1600) + [SprintTimer App](https://apps.apple.com/us/app/sprinttimer-photo-finish/id430807521))
+2. **Run Faster**, measuring sprint speed in 100M dash (using [handheld stopwatch](https://www.walmart.com/ip/Athletic-Works-Digital-Stopwatch-Black/984512262?athbdg=L1600) + [SprintTimer App](https://apps.apple.com/us/app/sprinttimer-photo-finish/id430807521))
     - Target: 11.80 seconds
     - Current: 12.35 seconds (as of August 2023)
 
@@ -133,18 +133,20 @@ All visuals served through PowerBI. Dashboard is made of 6 key components:
 
 *The 2 Python visuals both rely on custom code for generating the graphs. In the online view, this takes a few seconds to load in. This could be optimized, but does a nice job showing the gist of what the visuals are after. Python was used in these visuals to have control and complete customization of the labels (labels show specifi bpm and total hours of sleep rounded to nearest tenth).
 
-### Key takeaways from visuals
-Heart Rate Training Zones
-> ![Heart Rate Training Zones](/SupplementaryInfo/screenshots/heart-rate-training-zones-all-training-sessions.png), ![Heart Rate Training Zones](/SupplementaryInfo/screenshots/heart-rate-training-individual-session-zone2.png)
-- **More green dots in Zones 2/3 = better for higher intensity training.**
+## Key takeaways from visuals
+### Heart Rate Training Zones
+> ![Heart Rate Training Zones](/SupplementaryInfo/screenshots/example-heart-rate-training-zones-explained.png)
+- **More green dots in Zones 2 & 3 = better for higher intensity training.**
 At a glance I can see what the overall training intensity of a workout is. For example, if bmp is averaging below 114bpm (upperbound of Zone1), then I know it's relatively light intensity. Not bad per say, but it's important when viewing the aggregated view of workouts, there are training sessions landing in Zones 2 and 3.
 
-Sleep Efficiency Visual
-> ![Sleep Efficiency](/SupplementaryInfo/screenshots/sleep-efficiency-high-total-hours-high.png), ![Sleep Efficiency](/SupplementaryInfo/screenshots/sleep-efficiency-high-total-hours-low.png)
-- **More blue for sleep = higher sleep effiency. Target > 8 hours total sleep.**
-At a glance I can see how I slept the previous night on the day of that particular training session. While Fitbit provides it's own "sleep score" (currently being used on this visual, number ranges from 1-100), I prefer to measure sleep efficiency simply as a calculation of time awake vs. time asleep. 
+### Sleep Efficiency Visual
+> ![Sleep Efficiency](/SupplementaryInfo/screenshots/example-sleeping-efficiency-explained.png)
+- **More blue filling up the bar = higher sleep effiency. Target > 8 hours total sleep.**
+At a glance I can see how I slept the previous night on the day of that particular training session. 
 
-For example, looking at when I slept 9.4 hours, with .9 hrs awake (9%), and 8.5 hours asleep (91%)...I'd simply call that 91% sleep efficiency. Fitbit takes more factors into account. Also, worth pointing out that total hours of sleep duration should be factored in, too. Even moreso than time awake vs. time asleep. 9.4 hours vs. 4.8 hours is a major difference.
+- **While Fitbit provides it's own "sleep score", I prefer my own metric on the label of the blue bar chart**. Looking at when I slept 9.4 hours, with .9 hrs awake (9%), and 8.5 hours asleep (91%)...I'd simply call that 91% sleep efficiency. Fitbit takes more factors into account, although I'm not sure what. I display Fitbit's sleep effiency score above the bar chart.
+
+- **Why does this matter?** Knowing how well I slept gives me a good guage for intensity going into training sessions. I would avoid doing a taxing workout (i.e. Zone 4) if I knew I was running on 4 hours of sleep. I'd like to improve this metric by seeing longer stretches of sleep. For example, seeing a 14 day rolling average and calculating my sleep debt would be cool (similar to https://www.risescience.com/).
 
 ## Data Sources
 
