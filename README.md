@@ -1,9 +1,6 @@
 # CSCI 622 Project - Brock
 # Athlete Performance Dashboard
-- Project Overview video: https://www.loom.com/share/59fb24e087af4c7a9dda8abf04bfb7f1?sid=696d3130-aea2-424a-9787-60d6dc69a7a0
-
 - The Athlete Performance Dashboard aims to help individuals improve their athletic performance by making data-driven decisions, staying motivated, and maintaining a holistic approach to training and well-being.
-
 
 ## How to Interact With the Dashboard
 - Open the dashboard here: https://brocg.github.io/athlete-performance-dashboard (login with @ndus.edu creds)
@@ -14,6 +11,13 @@
 
 # Getting Started
 This repo contains all files used to create the dashboard. See SupplementaryInfo directory for the PowerBI file and 3 datasets (HevyWorkouts, FitbitSleepLog, PolarExercises). See the "CSCI 622 - Project Recap Brock.pdf" for a good overview of what steps were involved in designing this dashboard.
+
+<div>
+<a href="https://www.loom.com/share/59fb24e087af4c7a9dda8abf04bfb7f1">
+  <img width="400" src="https://cdn.loom.com/sessions/thumbnails/59fb24e087af4c7a9dda8abf04bfb7f1-with-play.gif">
+</a>
+<p><a href="https://www.loom.com/share/59fb24e087af4c7a9dda8abf04bfb7f1">CSCI 622 - Project Recap</a></p>
+</div>
 
 ## View Dashboard Online
 1. Visit https://brocg.github.io/athlete-performance-dashboard (works best in Chrome/Edge)
